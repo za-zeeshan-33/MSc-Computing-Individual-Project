@@ -2,6 +2,8 @@ This project is on attributed question answering, and includes utilities for dat
 
 The core idea: given a question and a set of passages, generate answers **with inline citations** (e.g. `[1][2]`), then evaluate citation quality and answer quality.
 
+AutoAIS model used: https://huggingface.co/spaces/za-zeeshan-33/true-model
+
 ---
 
 ## 1. Environment setup
