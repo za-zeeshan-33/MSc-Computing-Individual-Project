@@ -1,0 +1,637 @@
+[
+  {
+    "query_id": 3120,
+    "query": "Where did Jehovah's Witnesses originate?",
+    "quotes": [
+      {
+        "idx": 1,
+        "docid": "13949533#3",
+        "text": "Jehovah's Witnesses were an outgrowth of the International Bible Students, who began missionary work in Europe in the 1890s. A German branch office of the Watch Tower Society opened in Elberfeld in 1902. By 1933, almost 20,000 Witnesses were counted as active door-to-door preachers, and their annual Memorial service was attracting almost 25,000 people. In Dresden, there were more Bible Students than in New York, where the Watch Tower Society was headquartered."
+      },
+      {
+        "idx": 2,
+        "docid": "3897876#0",
+        "text": "Jehovah's Witnesses originated as a branch of the Bible Student movement, which developed in the United States in the 1870s among followers of Christian Restorationist minister Charles Taze Russell. Bible Student missionaries were sent to England in 1881 and the first overseas branch was opened in London in 1900. The group took on the name International Bible Students Association and by 1914 it was also active in Canada, Germany, Australia and other countries. The movement split into several rival organizations after Russell's death in 1916, with one—led by Russell's successor, Joseph \"Judge\" Rutherford—retaining control of both his magazine, \"The Watch Tower\", and his legal and publishing corporation, the Watch Tower Bible and Tract Society of Pennsylvania."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Jehovah's Witnesses originated as a branch of the Bible Student movement, which originated in the United States in the 1870s among followers of Christian Restorationist minister Charles Taze Russell [2]. Jehovah's Witnesses were an outgrowth of the International Bible Students and their missionary work that began in Europe in the 1890s. The first overseas branch of Bible Students was opened in London in 1900, and a German branch office of the Watch Tower Society opened in Elberfeld in 1902 [1, 2].",
+        "answer_type": "long",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "Jehovah's Witnesses originated as a branch of the Bible Student movement, which originated in the United States in the 1870s among followers of Christian Restorationist minister Charles Taze Russell [2].",
+            "answer_type": "long",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          },
+          {
+            "text": "Jehovah's Witnesses were an outgrowth of the International Bible Students and their missionary work that began in Europe in the 1890s. The first overseas branch of Bible Students was opened in London in 1900, and a German branch office of the Watch Tower Society opened in Elberfeld in 1902 [1, 2].",
+            "answer_type": "long",
+            "index": 1,
+            "attributable": 1,
+            "informative": 0
+          }
+        ]
+      },
+      {
+        "answer": "Jehovah's Witnesses originated as a branch of the Bible Student movement which developed in the United States in the 1870s among followers of Christian Restorationist minister Charles Taze Russell. [2] Later, the movement split into several organizations after Russell's death in 1916, and one of them led by his successor, Joseph \"Judge\" Rutherford, became Jehovah's Witnesses. [2] Later, the movement split into several organizations after Russell's death in 1916, and one of them led by his successor, Joseph \"Judge\" Rutherford, became Jehovah's Witnesses. [1]",
+        "answer_type": "short",
+        "informative": 1,
+        "attributable": 0,
+        "sentences": [
+          {
+            "text": "Jehovah's Witnesses originated as a branch of the Bible Student movement which developed in the United States in the 1870s among followers of Christian Restorationist minister Charles Taze Russell. [2]",
+            "answer_type": "short",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          },
+          {
+            "text": "Later, the movement split into several organizations after Russell's death in 1916, and one of them led by his successor, Joseph \"Judge\" Rutherford, became Jehovah's Witnesses. [2]",
+            "answer_type": "short",
+            "index": 1,
+            "attributable": 1,
+            "informative": 0
+          },
+          {
+            "text": "Later, the movement split into several organizations after Russell's death in 1916, and one of them led by his successor, Joseph \"Judge\" Rutherford, became Jehovah's Witnesses. [1]",
+            "answer_type": "short",
+            "index": 2,
+            "attributable": 0,
+            "informative": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query_id": 3129,
+    "query": "What is a conurbation?",
+    "quotes": [
+      {
+        "idx": 1,
+        "docid": "265943#0",
+        "text": "A conurbation is a region comprising a number of cities, large towns, and other urban areas that, through population growth and physical expansion, have merged to form one continuous urban or industrially developed area. In most cases, a conurbation is a polycentric urbanised area, in which transportation has developed to link areas to create a single urban labour market or travel to work area."
+      },
+      {
+        "idx": 2,
+        "docid": "265943#2",
+        "text": "The term as described is used in Britain, whereas in the United States each polycentric \"metropolitan area\" may have its own common designation, such as San Francisco Bay Area or the Dallas-Fort Worth Metroplex. Conurbation consists of adjacent metropolitan areas that are connected with one another by urbanization Internationally, the term \"urban agglomeration\" is often used to convey a similar meaning to \"conurbation.\" A conurbation should also be contrasted with a megalopolis, where the urban areas are close but not physically contiguous and where the merging of labour markets has not yet developed."
+      },
+      {
+        "idx": 3,
+        "docid": "265943#12",
+        "text": "One example of a conurbation is the expansive concept of the New York metropolitan area (the Tri-state region) centered on New York City, including 30 counties spread among New York State, New Jersey, Connecticut, and Pennsylvania, with an estimated population of 21,961,994 in 2007. Approximately one-fifteenth of all U.S. residents live in the Greater New York City area. This conurbation is the result of several central cities whose urban areas have merged."
+      },
+      {
+        "idx": 4,
+        "docid": "265943#1",
+        "text": "The term \"conurbation\" was coined in 1915 by Patrick Geddes in his book \"Cities In Evolution\". He drew attention to the ability of the then new technology of electric power and motorised transport to allow cities to spread and agglomerate together, and gave as examples \"Midlandton\" in England, the Ruhr in Germany, Randstad in the Netherlands and North Jersey in the United States."
+      },
+      {
+        "idx": 5,
+        "docid": "351097#5",
+        "text": "Although the exact boundaries of any conurbation are open to debate, dependent on what criteria are used to determine where an urban area ceases, the Office for National Statistics defines the West Midlands Built Up Area as including the urban areas of Birmingham, Wolverhampton, Solihull, West Bromwich, Dudley, and Walsall amongst others. These settlements are not coterminous with the Metropolitan Boroughs of the same name."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "A conurbation is a region comprising a number of cities, large towns, and other urban areas that have merged to form one continuous urban or industrially developed area [1]. The term is commonly used in Britain but in the United States, the term \"metropolitan area\" is used instead [2]. The merging of labor markets is an important feature of a conurbation. A megalopolis, on the other hand, is where the urban areas are close but not physically contiguous and where the merging of labor markets has not yet developed [2]. The merging of labor markets is an important feature of a conurbation. A megalopolis, on the other hand, is where the urban areas are close but not physically contiguous and where the merging of labor markets has not yet developed [3, 5]. The merging of labor markets is an important feature of a conurbation. A megalopolis, on the other hand, is where the urban areas are close but not physically contiguous and where the merging of labor markets has not yet developed [4].",
+        "answer_type": "long",
+        "informative": 1,
+        "attributable": 0,
+        "sentences": [
+          {
+            "text": "A conurbation is a region comprising a number of cities, large towns, and other urban areas that have merged to form one continuous urban or industrially developed area [1].",
+            "answer_type": "long",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          },
+          {
+            "text": "The term is commonly used in Britain but in the United States, the term \"metropolitan area\" is used instead [2].",
+            "answer_type": "long",
+            "index": 1,
+            "attributable": 1,
+            "informative": 0
+          },
+          {
+            "text": "The merging of labor markets is an important feature of a conurbation. A megalopolis, on the other hand, is where the urban areas are close but not physically contiguous and where the merging of labor markets has not yet developed [2].",
+            "answer_type": "long",
+            "index": 2,
+            "attributable": 1,
+            "informative": 0
+          },
+          {
+            "text": "The merging of labor markets is an important feature of a conurbation. A megalopolis, on the other hand, is where the urban areas are close but not physically contiguous and where the merging of labor markets has not yet developed [3, 5].",
+            "answer_type": "long",
+            "index": 3,
+            "attributable": 0,
+            "informative": 0
+          },
+          {
+            "text": "The merging of labor markets is an important feature of a conurbation. A megalopolis, on the other hand, is where the urban areas are close but not physically contiguous and where the merging of labor markets has not yet developed [4].",
+            "answer_type": "long",
+            "index": 4,
+            "attributable": 0,
+            "informative": 0
+          }
+        ]
+      },
+      {
+        "answer": "A conurbation is a region that consists of a number of cities, large towns, and other urban areas that have merged through population growth and physical expansion to form one continuous urban or industrially developed area. It is usually a polycentric urbanized area, which has transportation and in which the merging of labor markets has developed. [1] The term \"conurbation\" is commonly used in Britain, while in the United States, they have their own common designations for each polycentric \"metropolitan area.\" [2] An example of a conurbation is the New York metropolitan area, which is composed of 30 counties and has an estimated population of 21,961,994. [3] This term was coined by Patrick Geddes in his book \"Cities in Evolution\" in 1915, where he gave examples of conurbations such as the Ruhr in Germany and North Jersey in the United States. [4] The exact boundaries of a conurbation are debatable and dependent on the criteria used to determine where an urban area ceases. For instance, the West Midlands Built-up Area includes various urban areas such as Birmingham, Wolverhampton, Solihull, West Bromwich, Dudley, and Walsall. [5]",
+        "answer_type": "short",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "A conurbation is a region that consists of a number of cities, large towns, and other urban areas that have merged through population growth and physical expansion to form one continuous urban or industrially developed area. It is usually a polycentric urbanized area, which has transportation and in which the merging of labor markets has developed. [1]",
+            "answer_type": "short",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          },
+          {
+            "text": "The term \"conurbation\" is commonly used in Britain, while in the United States, they have their own common designations for each polycentric \"metropolitan area.\" [2]",
+            "answer_type": "short",
+            "index": 1,
+            "attributable": 1,
+            "informative": 0
+          },
+          {
+            "text": "An example of a conurbation is the New York metropolitan area, which is composed of 30 counties and has an estimated population of 21,961,994. [3]",
+            "answer_type": "short",
+            "index": 2,
+            "attributable": 1,
+            "informative": 0
+          },
+          {
+            "text": "This term was coined by Patrick Geddes in his book \"Cities in Evolution\" in 1915, where he gave examples of conurbations such as the Ruhr in Germany and North Jersey in the United States. [4]",
+            "answer_type": "short",
+            "index": 3,
+            "attributable": 1,
+            "informative": 0
+          },
+          {
+            "text": "The exact boundaries of a conurbation are debatable and dependent on the criteria used to determine where an urban area ceases. For instance, the West Midlands Built-up Area includes various urban areas such as Birmingham, Wolverhampton, Solihull, West Bromwich, Dudley, and Walsall. [5]",
+            "answer_type": "short",
+            "index": 4,
+            "attributable": 1,
+            "informative": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query_id": 3143,
+    "query": "When did the movie Scott Pilgrim come out?",
+    "quotes": [
+      {
+        "idx": 1,
+        "docid": "17574075#17",
+        "text": "A \"Scott Pilgrim vs. the World\" panel featured at the San Diego Comic-Con International held on July 22, 2010. After the panel, Wright invited selected members of the audience for a screening of the film which was followed by a performance by Metric. \"Scott Pilgrim\" was also shown at the Fantasia Festival in Montreal, Quebec, Canada on July 27, 2010 and was also featured at the Movie-Con III in London, England on August 15, 2010."
+      },
+      {
+        "idx": 2,
+        "docid": "17574075#1",
+        "text": "A film adaptation of the comics was proposed following the release of the first volume. Wright became attached to the project, and filming began in March 2009 in Toronto. The film premiered after a panel discussion at the San Diego Comic-Con International on July 22, 2010, and received a wide release in North America on August 13, 2010."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "It was also shown at the San Diego Comic-Con International on July 22, 2010 [1]",
+        "answer_type": "long",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "It was also shown at the San Diego Comic-Con International on July 22, 2010 [1]",
+            "answer_type": "long",
+            "index": 1,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      },
+      {
+        "answer": "The movie Scott Pilgrim came out on August 13, 2010 in North America. [2] It was premiered at the San Diego Comic-Con International on July 22, 2010, after which it was released. [2] It was premiered at the San Diego Comic-Con International on July 22, 2010, after which it was released. [1]",
+        "answer_type": "short",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "The movie Scott Pilgrim came out on August 13, 2010 in North America. [2]",
+            "answer_type": "short",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          },
+          {
+            "text": "It was premiered at the San Diego Comic-Con International on July 22, 2010, after which it was released. [2]",
+            "answer_type": "short",
+            "index": 1,
+            "attributable": 1,
+            "informative": 1
+          },
+          {
+            "text": "It was premiered at the San Diego Comic-Con International on July 22, 2010, after which it was released. [1]",
+            "answer_type": "short",
+            "index": 2,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query_id": 3162,
+    "query": "When was Konstantin Dmitriyevich Balmont born?",
+    "quotes": [
+      {
+        "idx": 1,
+        "docid": "2919217#0",
+        "text": "Konstantin Dmitriyevich Balmont (; – 23 December 1942) was a Russian symbolist poet and translator. He was one of the major figures of the Silver Age of Russian Poetry."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Konstantin Dmitriyevich Balmont was born on January 15, 1867. [1]",
+        "answer_type": "long",
+        "informative": 0,
+        "attributable": 0,
+        "sentences": [
+          {
+            "text": "Konstantin Dmitriyevich Balmont was born on January 15, 1867. [1]",
+            "answer_type": "long",
+            "index": 0,
+            "attributable": 0,
+            "informative": 0
+          }
+        ]
+      },
+      {
+        "answer": "Konstantin Dmitriyevich Balmont was born on May 15, 1867. [1]",
+        "answer_type": "short",
+        "informative": 0,
+        "attributable": 0,
+        "sentences": [
+          {
+            "text": "Konstantin Dmitriyevich Balmont was born on May 15, 1867. [1]",
+            "answer_type": "short",
+            "index": 0,
+            "attributable": 0,
+            "informative": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query_id": 3167,
+    "query": "Where was Bonanza filmed?",
+    "quotes": [
+      {
+        "idx": 1,
+        "docid": "180093#28",
+        "text": "Following Canary's departure, Frizzell's character accompanied Jamie Hunter to the Ponderosa and became the Cartwright's foreman.Initially, \"Bonanza\" aired on Saturday evenings opposite \"Dick Clark's Saturday Night Beech-Nut Show\" and \"John Gunther's High Road\" on ABC, and \"Perry Mason\" on CBS. \"Bonanza\"s initial ratings were respectable, often coming in behind Mason but ahead of the ABC line-up. Ironically, executives considered canceling the show before its premiere because of its high cost. NBC kept it because \"Bonanza\" was one of the first series to be filmed and broadcast in color, including scenes of picturesque Lake Tahoe, Nevada, although most of the episodes were obviously filmed on soundstages until the seasons near the end of the series. NBC's corporate parent, Radio Corporation of America (RCA), used the show to spur sales of RCA-manufactured color television sets (RCA was also the primary sponsor of the series during its first two seasons)."
+      },
+      {
+        "idx": 2,
+        "docid": "33969018#0",
+        "text": "Bonanza City is a ghost town in New Mexico, southwest of Santa Fe. Nothing remained of the town but remnants of foundations. A movie set (Bonanza Creek Movie Ranch) was built near the remains and has been used for several films. The 2007 TV show, Kid Nation, was filmed here for one season which aired on CBS."
+      },
+      {
+        "idx": 3,
+        "docid": "92733#26",
+        "text": "In an episode of the television series \"Bonanza\" (\"Look to the Stars\", broadcast March 18, 1962), Ben Cartwright (Lorne Greene) helps the 16-year-old Michelson (portrayed by 25-year-old Douglas Lambert (1936–1986)) obtain an appointment to the U.S. Naval Academy, despite the opposition of the bigoted town schoolteacher (played by William Schallert). \"Bonanza\" was set in and around Virginia City, Nevada, where Michelson lived with his parents prior to leaving for the Naval Academy. In a voice-over at the end of the episode, Greene mentions Michelson's 1907 Nobel Prize."
+      },
+      {
+        "idx": 4,
+        "docid": "11263877#3",
+        "text": "The show, featuring 40 children aged 8 to 15, was filmed on location at the Bonanza Creek Movie Ranch, a privately owned town built on the ruins of Bonanza City, New Mexico, eight miles south of Santa Fe, with production beginning on April 1, 2007."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "According to the contexts, \"Bonanza\" was a television series that was primarily filmed on soundstages until the seasons near the end of the series, which included scenes of picturesque Lake Tahoe, Nevada [1]. Bonanza City is a ghost town in New Mexico, southwest of Santa Fe, and a movie set (Bonanza Creek Movie Ranch) was built near the remains of the town and has been used for several films [2].",
+        "answer_type": "long",
+        "informative": 0,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "According to the contexts, \"Bonanza\" was a television series that was primarily filmed on soundstages until the seasons near the end of the series, which included scenes of picturesque Lake Tahoe, Nevada [1].",
+            "answer_type": "long",
+            "index": 0,
+            "attributable": 1,
+            "informative": 0
+          },
+          {
+            "text": "Bonanza City is a ghost town in New Mexico, southwest of Santa Fe, and a movie set (Bonanza Creek Movie Ranch) was built near the remains of the town and has been used for several films [2].",
+            "answer_type": "long",
+            "index": 1,
+            "attributable": 1,
+            "informative": 0
+          }
+        ]
+      },
+      {
+        "answer": "Bonanza was filmed at the Bonanza Creek Movie Ranch in New Mexico [2, 4].",
+        "answer_type": "short",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "Bonanza was filmed at the Bonanza Creek Movie Ranch in New Mexico [2, 4].",
+            "answer_type": "short",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query_id": 3168,
+    "query": "What was the first unmanned spaceflight?",
+    "quotes": [
+      {
+        "idx": 1,
+        "docid": "18426568#11",
+        "text": "NASA has conducted many manned and unmanned spaceflight programs throughout its history. Unmanned programs launched the first American artificial satellites into Earth orbit for scientific and communications purposes, and sent scientific probes to explore the planets of the solar system, starting with Venus and Mars, and including \"grand tours\" of the outer planets. Manned programs sent the first Americans into low Earth orbit (LEO), won the Space Race with the Soviet Union by landing twelve men on the Moon from 1969 to 1972 in the Apollo program, developed a semi-reusable LEO Space Shuttle, and developed LEO space station capability by itself and with the cooperation of several other nations including post-Soviet Russia. Some missions include both manned and unmanned aspects, such as the Galileo probe, which was deployed by astronauts in Earth orbit before being sent unmanned to Jupiter."
+      },
+      {
+        "idx": 2,
+        "docid": "729193#0",
+        "text": "Mercury-Redstone 1 (MR-1) was the first Mercury-Redstone unmanned flight test in Project Mercury and the first attempt to launch a Mercury spacecraft with the Mercury-Redstone Launch Vehicle. Intended to be an unmanned sub-orbital spaceflight, it was launched on November 21, 1960 from Cape Canaveral Air Force Station, Florida. The launch failed in a peculiar fashion which has been referred to as the \"four-inch flight\"."
+      },
+      {
+        "idx": 3,
+        "docid": "7437933#5",
+        "text": "One of the most earliest and notable achievements of SUPARCO activities was its unmanned space flight programme that was recorded on 7 June 1962. SUPARCO made research in the development of first solid-fuel expandable rockets, an assistance provided by the United States. On 7 June 1962, SUPARCO landed a record achievement when it launched first unmanned solid-fuel sounding rocket and took its first initial space flight from the Sonmiani Terminal Launch. The rocket was developed in a joint venture with Air force in a team led by PAF's Air Commodore (Brigadier-General) WJM Turowicz. Known as the \"Rehbar-I\" (lit. \"Teller of the way\"), Pakistan had secured its distinction as the third country in Asia and the tenth in the world to conduct successful spaceflight. The unmanned spaceflight mission continued under Turowicz, and according to SUPARCO, since 1962 til the partial termination of mission in 1972, ~200 sounding rockets took high success space flights from Sonmiani Terminal Launch. The National Aeronautics and Space Administration (NASA) publicly hailed the space flight programme as the beginning of \"a programme of continuous cooperation in space research of mutual interest.\""
+      },
+      {
+        "idx": 4,
+        "docid": "6949369#11",
+        "text": "On October 4, 1957, the Soviet Union launched Sputnik 1, the first artificial satellite of Earth in the history of mankind."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "The first unmanned spaceflight was the Soviet Union's Sputnik 1, launched on October 4, 1957, as mentioned in [4].",
+        "answer_type": "long",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "The first unmanned spaceflight was the Soviet Union's Sputnik 1, launched on October 4, 1957, as mentioned in [4].",
+            "answer_type": "long",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      },
+      {
+        "answer": "The first unmanned spaceflight was the Soviet Union's Sputnik 1, launched on October 4, 1957 [4].",
+        "answer_type": "short",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "The first unmanned spaceflight was the Soviet Union's Sputnik 1, launched on October 4, 1957 [4].",
+            "answer_type": "short",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query_id": 3178,
+    "query": "Can a septic tank explode?",
+    "quotes": [
+      {
+        "idx": 1,
+        "docid": "2047817#7",
+        "text": "Sewer gas can contain methane and hydrogen sulfide, both highly flammable and potentially explosive substances. As such, ignition of the gas is possible with flame or sparks. The methane concentration in open sewers is lower (7 to 15 ppmv) than the closed drains (up to 300 ppmv) in samples collected 2 cm above the level of sewage."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Based on the given contexts, it is possible for a septic tank to explode if there is an ignition source that causes the methane and hydrogen sulfide in the sewer gas to ignite [1]. Methane and hydrogen sulfide are highly flammable and potentially explosive substances that can be found in sewer gas, which can be ignited with flame or sparks. The concentration of methane in open sewers is lower than in closed drains, but it is still present [1].",
+        "answer_type": "long",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "Based on the given contexts, it is possible for a septic tank to explode if there is an ignition source that causes the methane and hydrogen sulfide in the sewer gas to ignite [1].",
+            "answer_type": "long",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          },
+          {
+            "text": "Methane and hydrogen sulfide are highly flammable and potentially explosive substances that can be found in sewer gas, which can be ignited with flame or sparks. The concentration of methane in open sewers is lower than in closed drains, but it is still present [1].",
+            "answer_type": "long",
+            "index": 1,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      },
+      {
+        "answer": "Yes, a septic tank can explode. Sewer gas that can build up in a septic tank can contain highly flammable and potentially explosive substances such as methane and hydrogen sulfide. If ignited by a flame or spark, it can cause an explosion [1].",
+        "answer_type": "short",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "Yes, a septic tank can explode. Sewer gas that can build up in a septic tank can contain highly flammable and potentially explosive substances such as methane and hydrogen sulfide. If ignited by a flame or spark, it can cause an explosion [1].",
+            "answer_type": "short",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query_id": 3183,
+    "query": "Where is NBC headquartered?",
+    "quotes": [
+      {
+        "idx": 1,
+        "docid": "167284#35",
+        "text": "NBC News Channel is a news video and report feed service, similar to a wire service, providing pre-produced international, national and regional stories some with fronting reporters customized for NBC network affiliates. It is based in Charlotte, North Carolina with bureaus in New York City at 30 Rockefeller Plaza, Washington, D.C. on North Capital Street NW, and in Los Angeles at the Brokaw News Center on the Universal Studios Hollywood Lot. Its headquarters in Charlotte are connected to the studios of Charlotte NBC affiliate WCNC-TV. NBC News Channel also served as the production base of \"NBC Nightside\" and \"Canal de Noticias, NBC\"."
+      },
+      {
+        "idx": 2,
+        "docid": "2046437#0",
+        "text": "NBC Studios are located in the historic 30 Rockefeller Plaza (on Sixth Avenue between 49th and 50th streets) in the borough of Manhattan, New York City. The building houses the NBC television network headquarters, its parent NBCUniversal, and NBC's flagship station WNBC (Channel 4), as well as cable news channel MSNBC."
+      },
+      {
+        "idx": 3,
+        "docid": "21780#0",
+        "text": "The National Broadcasting Company (NBC) is an American English-language commercial terrestrial television network that is a flagship property of NBCUniversal, a subsidiary of Comcast. The network is headquartered at 30 Rockefeller Plaza in New York City, with additional major offices near Los Angeles (at 10 Universal City Plaza), Chicago (at the NBC Tower) and Philadelphia (at the Comcast Technology Center). The network is one of the Big Three television networks. NBC is sometimes referred to as the \"Peacock Network\", in reference to its stylized peacock logo, introduced in 1956 to promote the company's innovations in early color broadcasting. It became the network's official emblem in 1979."
+      },
+      {
+        "idx": 4,
+        "docid": "55710656#16",
+        "text": "NBC intended to make Chicago a major hub for its radio networks. In 1930, the network leased more than 66,000 square feet of space in the newly completed Merchandise Mart with plans to move 50 radio programs which were presently originating in New York to their new Chicago headquarters. In 1931, NBC was able to purchase Chicago radio station WENR from financially troubled Samuel Insull. Later in the year, it bought WMAQ from the \"Daily News\". With the purchase of WMAQ, the network now owned a radio station in Chicago for their Blue Network (WENR) and their Red Network (WMAQ). While WMAQ was moved to NBC's new Merchandise Mart base of operations a few months after it was purchased, WENR remained at Chicago's Civic Opera House, where it was based when owned by Insull."
+      },
+      {
+        "idx": 5,
+        "docid": "21780#124",
+        "text": "In 1993, NBC launched a 24-hour Spanish-language news channel serving Latin America (the second news channel serving that region overall, after Noticias ECO, and the first to broadcast 24 hours a day), Canal de Noticias NBC, which based its news schedule around the \"wheel\" format conceived at CNN. The channel, which was headquartered in the offices of the NBC News Channel affiliate news service in Charlotte, North Carolina, employed over 50 journalists to produce, write, anchor and provide technical services. Canal de Noticias NBC shut down in 1999 due to the channel's inability to generate sustainable advertising revenue."
+      },
+      {
+        "idx": 6,
+        "docid": "5707760#1",
+        "text": "The design, by Adrian D. Smith of Skidmore, Owings & Merrill, is considered one of the finest reproductions of the Art Deco style. It was inspired by 30 Rockefeller Plaza in New York City, which is NBC's global headquarters. The tower is further enhanced by the use of limestone piers and recessed tinted glass with granite spandrels. The building takes additional cues from the nearby landmark Tribune Tower with the use of flying buttresses. A broadcast tower and spire tops the skyscraper. WMAQ and WSNS have STL and satellite facilities on the roof; the STLs link to WMAQ and WSNS's transmitter facilities atop the Willis Tower. WMAQ radio/WSCR studios and STL were located in the building until 2006 when they relocated to Two Prudential Plaza."
+      },
+      {
+        "idx": 7,
+        "docid": "31620331#0",
+        "text": "The National Baptist Convention, USA, Inc., more commonly known as the National Baptist Convention (NBC USA or NBC), is the largest predominantly African-American Christian denomination in the United States. It is headquartered at the Baptist World Center in Nashville, Tennessee and affiliated with the Baptist World Alliance. The denomination claims approximately 31,000 congregations and reports having an estimated 7.5 million members."
+      },
+      {
+        "idx": 8,
+        "docid": "759519#1",
+        "text": "The site was founded in 1996 as a 50-50 venture between NBCUniversal and Microsoft at the same time as the two companies formed a separate joint venture for the cable news network MSNBC. Although they shared the same name, msnbc.com and MSNBC maintained separate corporate structures and news operations, with msnbc.com headquartered on the West Coast on the Microsoft campus in Redmond, Washington and MSNBC in the NBC headquarters in New York. Microsoft divested its stake in the MSNBC channel in 2005, and divested its stake in msnbc.com in July 2012."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "The headquarters of NBC is located in 30 Rockefeller Plaza in New York City [3].",
+        "answer_type": "long",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "The headquarters of NBC is located in 30 Rockefeller Plaza in New York City [3].",
+            "answer_type": "long",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      },
+      {
+        "answer": "The National Broadcasting Company (NBC) is headquartered in 30 Rockefeller Plaza, in New York City [3].",
+        "answer_type": "short",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "The National Broadcasting Company (NBC) is headquartered in 30 Rockefeller Plaza, in New York City [3].",
+            "answer_type": "short",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query_id": 3190,
+    "query": "Is Gwen Poole part of any teams?",
+    "quotes": [
+      {
+        "idx": 1,
+        "docid": "50994304#1",
+        "text": "Marvel initially produced two stories featuring Gwenpool as a character, a backup story in the series \"Howard the Duck\", and a one-shot \"Gwenpool Holiday Special\". A retcon in the \"Howard the Duck\" #1 backup revealed her name to actually be \"Gwen Poole.\" Following the publication of the one-shot, an ongoing series titled \"The Unbelievable Gwenpool\" by the same creative team was announced, which started in April 2016. \"The Unbelievable Gwenpool\" #0, collecting Poole's appearances from \"Howard the Duck\" and the first \"Gwenpool Holiday Special\", was later released."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Based on the given contexts, Gwen Poole is part of a team in \"The Unbelievable Gwenpool\". [1]",
+        "answer_type": "long",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "Based on the given contexts, Gwen Poole is part of a team in \"The Unbelievable Gwenpool\". [1]",
+            "answer_type": "long",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      },
+      {
+        "answer": "Yes, Gwen Poole is part of a team called The Unbelievable Gwenpool, which was announced as an ongoing series in April 2016 [1].",
+        "answer_type": "short",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "Yes, Gwen Poole is part of a team called The Unbelievable Gwenpool, which was announced as an ongoing series in April 2016 [1].",
+            "answer_type": "short",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query_id": 3193,
+    "query": "Where was Socrates born?",
+    "quotes": [
+      {
+        "idx": 1,
+        "docid": "25664190#15",
+        "text": "Socrates was born in Alopeke, and belonged to the tribe Antiochis. His father was Sophroniscus, a sculptor, or stonemason. His mother was a midwife named Phaenarete. Socrates married Xanthippe, who is especially remembered for having an undesirable temperament. She bore for him three sons, Lamprocles, Sophroniscus and Menexenus."
+      },
+      {
+        "idx": 2,
+        "docid": "8564570#2",
+        "text": "Alexander Socrates Onassis was born at the Harkness Pavilion, a private clinic in New York City's NewYork–Presbyterian Hospital. He was the elder child of the Greek shipping magnate Aristotle Onassis (1906 –1975) and his first wife, Athina Livanos (1929 –1974), herself a daughter of a Greek shipping magnate, Stavros G. Livanos. Onassis was named after his father's uncle, who was hanged by a Turkish military tribunal during their sacking of Smyrna in September 1922. Onassis's sister, Christina, was born in 1950."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Socrates was born in Alopeke, belonging to the tribe Antiochis. [1]",
+        "answer_type": "long",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "Socrates was born in Alopeke, belonging to the tribe Antiochis. [1]",
+            "answer_type": "long",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      },
+      {
+        "answer": "Socrates was born in Alopeke [1].",
+        "answer_type": "short",
+        "informative": 1,
+        "attributable": 1,
+        "sentences": [
+          {
+            "text": "Socrates was born in Alopeke [1].",
+            "answer_type": "short",
+            "index": 0,
+            "attributable": 1,
+            "informative": 1
+          }
+        ]
+      }
+    ]
+  }
+]
