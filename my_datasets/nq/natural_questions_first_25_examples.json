@@ -1,0 +1,1023 @@
+[
+  {
+    "query_id": 1,
+    "question": "who sings does he love me with reba",
+    "answers": [
+      "Linda Davis"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "11828866",
+        "title": "Does He Love You",
+        "text": "Does He Love You \"Does He Love You\" is a song written by Sandy Knox and Billy Stritch, and recorded as a duet by American country music artists Reba McEntire and Linda Davis. It was released in August 1993 as the first single from Reba's album \"Greatest Hits Volume Two\". It is one of country music's several songs about a love triangle. \"Does He Love You\" was written in 1982 by Billy Stritch. He recorded it with a trio in which he performed at the time, because he wanted a song that could be sung by the other two members",
+        "score": 1000
+      },
+      {
+        "doc_id": "11828866",
+        "title": "Does He Love You",
+        "text": "Does He Love You \"Does He Love You\" is a song written by Sandy Knox and Billy Stritch, and recorded as a duet by American country music artists Reba McEntire and Linda Davis. It was released in August 1993 as the first single from Reba's album \"Greatest Hits Volume Two\". It is one of country music's several songs about a love triangle. \"Does He Love You\" was written in 1982 by Billy Stritch. He recorded it with a trio in which he performed at the time, because he wanted a song that could be sung by the other two members",
+        "score": 13.394315
+      },
+      {
+        "doc_id": "15632586",
+        "title": "Red Sandy Spika dress of Reba McEntire",
+        "text": "Red Sandy Spika dress of Reba McEntire American recording artist Reba McEntire wore a sheer red dress to the 1993 Country Music Association Awards ceremony on September 29, 1993. The sheer fabric was covered with sequins, and cut with a low neckline. The garment was designed by stylist Sandy Spika, and McEntire wore it during a duet performance of \"Does He Love You\" with Linda Davis. McEntire later said, \"I got more press off that dress than if I'd won entertainer of the year.\" According to McEntire, when her little sister, Susie, saw her on stage she leaned over and",
+        "score": 12.924647
+      },
+      {
+        "doc_id": "8870096",
+        "title": "Greatest Hits Volume Two (Reba McEntire album)",
+        "text": "(then a background singer in McEntire's road band), was the first single and turned out to be a smash. It reached number 1 on the country charts. The song also earned them a Grammy award for Best Country Vocal Collaboration as well as the CMA Award for \"Vocal Event of the Year\". CMT ranked the song at No. 9 on their list of 100 Greatest Duets. \"Does He Love You\" is the first of three duets featuring Reba and Linda Davis. The album's other new track was \"They Asked About You\", which peaked at No. 7 on the country chart.",
+        "score": 11.614756
+      },
+      {
+        "doc_id": "7626265",
+        "title": "Shoot for the Moon (album)",
+        "text": "Shoot for the Moon (album) Shoot for the Moon is the third album by country music artist Linda Davis, It was her first to achieve placement on the Billboard Music Charts. It was the first album released following a win at the 1993 Grammy Awards for Best Country Vocal Collaboration (with country superstar Reba McEntire) for their hit \"Does He Love You.\" The album rose to the number 28 position on the Country Albums chart, and two of its tracks were relatively minor hits on the singles charts: \"Company Time\" at number 43, and \"Love Didn't Do It\" at number",
+        "score": 11.0992
+      }
+    ],
+    "num_relevant_docs": 5,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 2,
+    "question": "where do the great lakes meet the ocean",
+    "answers": [
+      "the Saint Lawrence River"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "151960",
+        "title": "Great Lakes",
+        "text": "Great Lakes The Great Lakes (), also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes located primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River. They consist of Lakes Superior, Michigan, Huron, Erie, and Ontario, although hydrologically, there are four lakes, Superior, Erie, Ontario, and Michigan-Huron. The lakes are interconnected by the Great Lakes Waterway. The Great Lakes are the largest group of freshwater lakes on Earth by total area, and second largest",
+        "score": 1000
+      },
+      {
+        "doc_id": "151960",
+        "title": "Great Lakes",
+        "text": "Great Lakes The Great Lakes (), also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes located primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River. They consist of Lakes Superior, Michigan, Huron, Erie, and Ontario, although hydrologically, there are four lakes, Superior, Erie, Ontario, and Michigan-Huron. The lakes are interconnected by the Great Lakes Waterway. The Great Lakes are the largest group of freshwater lakes on Earth by total area, and second largest",
+        "score": 11.393292
+      },
+      {
+        "doc_id": "152029",
+        "title": "Great Lakes",
+        "text": "its impact on the environment. On December 18, 2006, the Coast Guard announced its decision to withdraw the entire proposal. Officials said they would look into alternative ammunition, modifying the proposed zones and have more public dialogue before proposing a new plan. Dynamically updated data Great Lakes The Great Lakes (), also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes located primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River. They consist of",
+        "score": 10.97442
+      },
+      {
+        "doc_id": "151963",
+        "title": "Great Lakes",
+        "text": "form a single, naturally interconnected body of fresh water, within the Great Lakes Basin. They form a chain connecting the east-central interior of North America to the Atlantic Ocean. From the interior to the outlet at the Saint Lawrence River, water flows from Superior to Huron and Michigan, southward to Erie, and finally northward to Lake Ontario. The lakes drain a large watershed via many rivers, and are studded with approximately 35,000 islands. There are also several thousand smaller lakes, often called \"inland lakes,\" within the basin. The surface area of the five primary lakes combined is roughly equal to",
+        "score": 10.432816
+      },
+      {
+        "doc_id": "239917",
+        "title": "Lake Ontario",
+        "text": "the Niagara River from Lake Erie. The last in the Great Lakes chain, Lake Ontario serves as the outlet to the Atlantic Ocean via the Saint Lawrence River. It is the only Great Lake not to border the state of Michigan. Lake Ontario is the easternmost of the Great Lakes and the smallest in surface area (7,340 sq mi, 18,960 km), although it exceeds Lake Erie in volume (393 cu mi, 1,639 km). It is the 14th largest lake in the world. When its islands are included, the lake's shoreline is long. As the last lake in the Great Lakes'",
+        "score": 10.284986
+      },
+      {
+        "doc_id": "9238055",
+        "title": "New York (state)",
+        "text": "that includes within its borders parts of the Great Lakes and the Atlantic Ocean. The Hudson River begins near Lake Tear of the Clouds and flows south through the eastern part of the state, without draining Lakes George or Champlain. Lake George empties at its north end into Lake Champlain, whose northern end extends into Canada, where it drains into the Richelieu River and then ultimately the Saint Lawrence River. The western section of the state is drained by the Allegheny River and rivers of the Susquehanna and Delaware River systems. Niagara Falls is shared between New York and Ontario",
+        "score": 10.10671
+      }
+    ],
+    "num_relevant_docs": 6,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 3,
+    "question": "when does the new my hero academia movie come out",
+    "answers": [
+      "July 5 , 2018"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "20766125",
+        "title": "My Hero Academia: Two Heroes",
+        "text": "would be joining the cast as Melissa Shield and Katsuhisa Namase would play David Shield, both original characters. On June 11, 2018, \"Weekly Shōnen Jump\" announced that Rikiya Koyama had been cast as the film's villain, Wolfram. Masaki Suda performs the film's theme song , which was written and composed by Hiromu Akita of amazarashi. Funimation and Toho premiered the film at Anime Expo in Los Angeles on July 5, 2018, and it was later released in Japan on August 3 of that year. The first one million audience members to see the movie will receive a special book containing",
+        "score": 1000
+      },
+      {
+        "doc_id": "18433097",
+        "title": "My Hero Academia",
+        "text": "announced in the 44th issue of \"Weekly Shōnen Jump\" magazine of 2018. This was later confirmed with the airing of the final episode to season three on September 29, 2018. On December 19, 2018, the \"My Hero Academia\" website confirmed a release date of October 2019, along with a key visual. An anime film was announced in December 2017 and features an original story set after the manga's \"Final Exam\" arc. Titled , the film had its world premiere at Anime Expo on July 5, 2018, and the Japanese theatrical release began screening on August 3, 2018, with the staff",
+        "score": 12.21437
+      },
+      {
+        "doc_id": "20766125",
+        "title": "My Hero Academia: Two Heroes",
+        "text": "would be joining the cast as Melissa Shield and Katsuhisa Namase would play David Shield, both original characters. On June 11, 2018, \"Weekly Shōnen Jump\" announced that Rikiya Koyama had been cast as the film's villain, Wolfram. Masaki Suda performs the film's theme song , which was written and composed by Hiromu Akita of amazarashi. Funimation and Toho premiered the film at Anime Expo in Los Angeles on July 5, 2018, and it was later released in Japan on August 3 of that year. The first one million audience members to see the movie will receive a special book containing",
+        "score": 11.710763
+      }
+    ],
+    "num_relevant_docs": 3,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 4,
+    "question": "who was the creator of victoria 's secret",
+    "answers": [
+      "Roy Raymond"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "13258931",
+        "title": "Victoria's Secret",
+        "text": "the show.\" Victoria's Secret Victoria's Secret is an American designer, manufacturer, and marketer of women's lingerie, womenswear, and beauty products. Founded in 1977 as a response to packaged underwear, which the company's founder considered to be \"ugly, floral-print nylon nightgowns\", the company is now the largest American retailer of women's lingerie. Victoria's Secret was founded by Roy Raymond, and his wife Gaye Raymond, in San Francisco, California, on June 12, 1977. Eight years prior to founding Victoria's Secret, in the late 1960s, Raymond was embarrassed when purchasing lingerie for his wife at a department store. Newsweek reported him looking back",
+        "score": 1000
+      }
+    ],
+    "num_relevant_docs": 1,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 5,
+    "question": "when did wesley leave last of the summer wine",
+    "answers": [
+      "2002"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "4441861",
+        "title": "Gordon Wharmby",
+        "text": "made his debut in \"Last of the Summer Wine\" in 1982, as Wesley Pegden, the boilersuit wearing, tinkering mechanic and would be inventor. He appeared as a regular cast member for 16 series between 1985 and 2002. Thora Hird played his nagging wife Edie. Wharmby had small roles in programmes such as Troy Kennedy Martin's nuclear thriller \"Edge of Darkness\" (1985), \"Brookside\" (1985), \"All Creatures Great and Small\" (1988), \"A Very British Coup\" coronation street as a milkman (1982) \"Agatha Christie's Poirot\" (1990), \"Heartbeat\" (1994), and \"Hetty Wainthropp Investigates\" (1996). At his time of death, he had been due to",
+        "score": 1000
+      },
+      {
+        "doc_id": "4441862",
+        "title": "Gordon Wharmby",
+        "text": "start recording the 25th series of \"Last of the Summer Wine\". Gordon died of cancer on 18 May 2002, aged 68. Gordon Wharmby Gordon Wharmby (6 November 1933 – 18 May 2002) was a British television actor. He was best known for the role of Wesley Pegden on \"Last of the Summer Wine\". He was born in Manchester, Lancashire, in 1933, and served in the Royal Air Force during his national service. Wharmby was originally employed as a painter and decorator and had no formal training as an actor. He gained stage experience with Oldham Repertory Theatre and worked part-time",
+        "score": 13.225002
+      },
+      {
+        "doc_id": "4441861",
+        "title": "Gordon Wharmby",
+        "text": "made his debut in \"Last of the Summer Wine\" in 1982, as Wesley Pegden, the boilersuit wearing, tinkering mechanic and would be inventor. He appeared as a regular cast member for 16 series between 1985 and 2002. Thora Hird played his nagging wife Edie. Wharmby had small roles in programmes such as Troy Kennedy Martin's nuclear thriller \"Edge of Darkness\" (1985), \"Brookside\" (1985), \"All Creatures Great and Small\" (1988), \"A Very British Coup\" coronation street as a milkman (1982) \"Agatha Christie's Poirot\" (1990), \"Heartbeat\" (1994), and \"Hetty Wainthropp Investigates\" (1996). At his time of death, he had been due to",
+        "score": 11.04914
+      },
+      {
+        "doc_id": "4441859",
+        "title": "Gordon Wharmby",
+        "text": "Gordon Wharmby Gordon Wharmby (6 November 1933 – 18 May 2002) was a British television actor. He was best known for the role of Wesley Pegden on \"Last of the Summer Wine\". He was born in Manchester, Lancashire, in 1933, and served in the Royal Air Force during his national service. Wharmby was originally employed as a painter and decorator and had no formal training as an actor. He gained stage experience with Oldham Repertory Theatre and worked part-time as a jobbing actor. Early television roles included bit-parts in programmes such as \"Bill Brand\" (1976), \"The One and Only Phyllis",
+        "score": 11.045026
+      },
+      {
+        "doc_id": "808446",
+        "title": "Last of the Summer Wine",
+        "text": "of \"Last of the Summer Wine\". While presenting an OBE to Roy Clarke in 2002, Prince Charles said that his grandmother, the Queen Mother, had introduced him to the show. The Queen told Dame Thora Hird during a 2001 meeting that \"Last of the Summer Wine\" was her favourite television programme. A 2003 survey by \"Radio Times\" found that \"Last of the Summer Wine\" was the programme readers most wanted to see cancelled. With nearly 12,000 votes in the survey, the show received one-third of the total vote, and twice as many votes as the runner up in the poll,",
+        "score": 10.982203
+      },
+      {
+        "doc_id": "11997016",
+        "title": "Last of the Summer Wine (series 2)",
+        "text": "Jones (1975) (Both these two characters only appeared in this series) Blamire (1973-1975) <onlyinclude> </onlyinclude> The box set for series 1 and 2 was released by Universal Playback in September 2002. Last of the Summer Wine (series 2) Last of the Summer Wine's second series originally aired on BBC1 between 5 March and 16 April 1975. All episodes from this series were written by Roy Clarke and produced and directed by Bernard Thompson. Although ratings from the first series were not good, the BBC ordered a second series of \"Last of the Summer Wine\" after the first season aired but",
+        "score": 10.698597
+      },
+      {
+        "doc_id": "13082239",
+        "title": "Not All Dogs Go to Heaven",
+        "text": "Sirtis as Troi; LeVar Burton as Chief Engineer Geordi La Forge; Wil Wheaton as Wesley Crusher; and Denise Crosby, whose character Tasha Yar died during \"Star Trek: The Next Generation\"s first season. It is also the first time the cast, minus Crosby, has worked together since the 2002 feature film \"Star Trek Nemesis\", although the actors did not meet when they recorded their speaking parts. Including Crosby, the last time that the entire cast worked together was the 1990 episode \"Yesterday's Enterprise\". Wil Wheaton, who played Wesley Crusher on \"\", recorded his parts for the episode on September 20, 2007.",
+        "score": 9.579905
+      }
+    ],
+    "num_relevant_docs": 7,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 6,
+    "question": "who introduced the system of civil services in india",
+    "answers": [
+      "Charles Cornwallis"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "14394957",
+        "title": "Civil Services of India",
+        "text": "administer them. The civil service system in India is rank-based and does not follow the tenets of the position-based civil services. In 2015, the Government of India approved the formation of Indian Skill Development Service. Further, in 2016, the Government of India approved the formation of Indian Enterprise Development Service. Warren Hastings laid the foundation of civil service and Charles Cornwallis reformed, modernised and rationalised it. Hence, Charles Cornwallis is known as the 'Father of Civil Service in India'. He introduced Covenanted Civil Services (Higher Civil Services) and Uncovenanted Civil Services (Lower Civil Services). The present civil services of India",
+        "score": 1000
+      },
+      {
+        "doc_id": "14394957",
+        "title": "Civil Services of India",
+        "text": "administer them. The civil service system in India is rank-based and does not follow the tenets of the position-based civil services. In 2015, the Government of India approved the formation of Indian Skill Development Service. Further, in 2016, the Government of India approved the formation of Indian Enterprise Development Service. Warren Hastings laid the foundation of civil service and Charles Cornwallis reformed, modernised and rationalised it. Hence, Charles Cornwallis is known as the 'Father of Civil Service in India'. He introduced Covenanted Civil Services (Higher Civil Services) and Uncovenanted Civil Services (Lower Civil Services). The present civil services of India",
+        "score": 14.94294
+      }
+    ],
+    "num_relevant_docs": 2,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 7,
+    "question": "southern soul was considered the sound of what independent record label",
+    "answers": [
+      "Motown"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "730813",
+        "title": "Soul music",
+        "text": "soul music. The key subgenres of soul include the Detroit (Motown) style, a rhythmic music influenced by gospel; \"deep soul\" and \"southern soul\", driving, energetic soul styles combining R&B with southern gospel music sounds; Memphis soul, a shimmering, sultry style; New Orleans soul, which came out of the rhythm and blues style; Chicago soul, a lighter gospel-influenced sound; Philadelphia soul, a lush orchestral sound with doo-wop-inspired vocals; psychedelic soul, a blend of psychedelic rock and soul music; as well as categories such as blue-eyed soul, which is soul music performed by white artists; British soul; and Northern soul, rare soul",
+        "score": 1000
+      },
+      {
+        "doc_id": "1446979",
+        "title": "Motown",
+        "text": "most successful proponents of what came to be known as the Motown Sound, a style of soul music with a distinct pop influence. During the 1960s, Motown achieved spectacular success for a small label: 79 records in the top-ten of the \"Billboard\" Hot 100 between 1960 and 1969. Following the events of the Detroit Riots of 1967 and the loss of key songwriting/production team Holland-Dozier-Holland the same year over pay disputes, Gordy began relocating Motown to Los Angeles, California. The move was completed in 1972, and Motown later expanded into film and television production, remaining an independent company until 1994,",
+        "score": 12.348222
+      },
+      {
+        "doc_id": "730833",
+        "title": "Soul music",
+        "text": "The Motown sound often includes hand clapping, a powerful bassline, violins and bells. Motown Records' house band was The Funk Brothers. AllMusic cites Motown as the pioneering label of pop-soul, a style of soul music with raw vocals, but polished production and toned-down subject matter intended for pop radio and crossover success. Artists of this style included Diana Ross, the Jackson 5, Stevie Wonder, and Billy Preston. Popular during the 1960s, the style became glossier during the 1970s and led to disco. The terms \"deep soul\" and \"southern soul\" generally refer to a driving, energetic soul style combining R&B's energy",
+        "score": 12.301724
+      }
+    ],
+    "num_relevant_docs": 3,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 8,
+    "question": "who is the bad guy in lord of the rings",
+    "answers": [
+      "Sauron"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "13448060",
+        "title": "Sauron",
+        "text": "Sauron Sauron is the title character and main antagonist of J. R. R. Tolkien's \"The Lord of the Rings\". In the same work, he is identified as the Necromancer, mentioned in Tolkien's earlier novel \"The Hobbit\". In Tolkien's \"The Silmarillion\" (published posthumously by Tolkien's son Christopher Tolkien), he is also described as the chief lieutenant of the first Dark Lord, Morgoth. Tolkien noted that the Ainur, the \"angelic\" powers of his constructed myth, \"were capable of many degrees of error and failing\", but by far the worst was \"the absolute Satanic rebellion and evil of Morgoth and his satellite Sauron\".",
+        "score": 1000
+      },
+      {
+        "doc_id": "13796238",
+        "title": "Dark Lord",
+        "text": "Dark Lord In fiction, Dark Lord (or Evil Overlord) is often used to refer to a powerful villain or antagonist with evil henchmen. In particular, it is used as a moniker in fictional worlds where it is thought that pronouncing the villain's real name will bring bad luck or represents a bad omen. Such a villain usually seeks to rule or destroy the people around them (such as Voldemort in Harry Potter, Sauron in Lord of the Rings etc) In a religious context, Dark Lord usually means Satan or other similar entities who hold power over lesser fiendish creatures and",
+        "score": 12.857448
+      },
+      {
+        "doc_id": "1485874",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "text": "The Lord of the Rings: The Fellowship of the Ring The Lord of the Rings: The Fellowship of the Ring is a 2001 epic fantasy adventure film directed by Peter Jackson based on the first volume of J. R. R. Tolkien's \"The Lord of the Rings\" (1954–1955). It is the first instalment in \"The Lord of the Rings series\", and was followed by \"\" (2002) and \"\" (2003), based on the second and third volumes of \"The Lord of the Rings\". Set in Middle-earth, the story tells of the Dark Lord Sauron (Sala Baker), who is seeking the One Ring.",
+        "score": 11.558177
+      },
+      {
+        "doc_id": "2393159",
+        "title": "The Lord of the Rings (1978 film)",
+        "text": "The Lord of the Rings (1978 film) The Lord of the Rings is a 1978 animated high fantasy film directed by Ralph Bakshi. It is an adaptation of J. R. R. Tolkien's high fantasy epic \"The Lord of the Rings\", comprising \"The Fellowship of the Ring\" and the first half of \"The Two Towers\". Set in Middle-earth, the film follows a group of hobbits, elves, men, dwarves, and wizards who form a fellowship. They embark on a quest to destroy the One Ring made by the Dark Lord Sauron, and ensure his destruction. Ralph Bakshi encountered Tolkien's writing early in",
+        "score": 10.965829
+      },
+      {
+        "doc_id": "402218",
+        "title": "The Lord of the Rings",
+        "text": "The Lord of the Rings The Lord of the Rings is an epic high fantasy novel written by English author and scholar J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel \"The Hobbit\", but eventually developed into a much larger work. Written in stages between 1937 and 1949, \"The Lord of the Rings\" is one of the best-selling novels ever written, with over 150 million copies sold. The title of the novel refers to the story's main antagonist, the Dark Lord Sauron, who had in an earlier age created the One Ring to rule",
+        "score": 10.964109
+      },
+      {
+        "doc_id": "2774967",
+        "title": "The Lord of the Rings (1981 radio series)",
+        "text": "The Lord of the Rings (1981 radio series) In 1981 BBC Radio 4 produced a dramatisation of J. R. R. Tolkien's \"The Lord of the Rings\" in 26 half-hour stereo installments. The novel had previously been adapted as a 12-part BBC Radio adaptation in 1955 and 1956 (of which no recordings are known to have survived), and a 1979 production by The Mind's Eye for National Public Radio in the USA. Like the novel on which it is based, \"The Lord of the Rings\" is the story of an epic struggle between the Dark Lord Sauron of Mordor, the primary",
+        "score": 10.019831
+      },
+      {
+        "doc_id": "412335",
+        "title": "Inklings",
+        "text": "was typical for university literary groups in their time and place, the Inklings were all male. Readings and discussions of the members' unfinished works were the principal purposes of meetings. Tolkien's \"The Lord of the Rings\", Lewis's \"Out of the Silent Planet\", and Williams's \"All Hallows' Eve\" were among the novels first read to the Inklings. Tolkien's fictional Notion Club (see \"Sauron Defeated\") was based on the Inklings. Meetings were not all serious; the Inklings amused themselves by having competitions to see who could read the notoriously bad prose of Amanda McKittrick Ros for the longest without laughing. The name",
+        "score": 9.951694
+      },
+      {
+        "doc_id": "11933916",
+        "title": "The Lord of the Rings: Conquest",
+        "text": "The Lord of the Rings: Conquest The Lord of the Rings: Conquest is a 2009 action game developed by Pandemic Studios and published by Electronic Arts. It is derived from \"The Lord of the Rings\" film trilogy, and borrows many gameplay mechanics from Pandemic's \"\" games. The game allows the player to play as both the forces of good and evil, but unlike \"\", the latter option is based around Sauron stopping the One Ring from being destroyed and using it to regain his lost power. Pandemic was aided by Weta Digital in developing the game. They provided many of",
+        "score": 9.903437
+      },
+      {
+        "doc_id": "11933941",
+        "title": "The Lord of the Rings: Conquest",
+        "text": "seems much as though \"the license is really just skinned onto capture the flag\". The Lord of the Rings: Conquest The Lord of the Rings: Conquest is a 2009 action game developed by Pandemic Studios and published by Electronic Arts. It is derived from \"The Lord of the Rings\" film trilogy, and borrows many gameplay mechanics from Pandemic's \"\" games. The game allows the player to play as both the forces of good and evil, but unlike \"\", the latter option is based around Sauron stopping the One Ring from being destroyed and using it to regain his lost power.",
+        "score": 9.893623
+      },
+      {
+        "doc_id": "1801596",
+        "title": "The History of The Lord of the Rings",
+        "text": "story”. Thereafter Tolkien’s problem was rather one of selecting between alternative accounts, so as to produce the best effect – two episodes in \"Sauron Defeated\" that were eventually deleted being the pardoning of Saruman, and an awards ceremony at the book’s close. The History of The Lord of the Rings The History of The Lord of the Rings is a four-volume work by Christopher Tolkien published between 1988 and 1992 that documents the process of J. R. R. Tolkien's writing of \"The Lord of the Rings\". The \"History\" is also numbered as volumes six to nine of \"The History of",
+        "score": 9.851868
+      }
+    ],
+    "num_relevant_docs": 10,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 9,
+    "question": "where is the most distortion on a robinson projection",
+    "answers": [
+      "close to the poles"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "2279250",
+        "title": "Robinson projection",
+        "text": "purpose world maps in 1988, replacing the Van der Grinten projection. In 1998 NGS abandoned the Robinson projection for that use in favor of the Winkel tripel projection, as the latter \"reduces the distortion of land masses as they near the poles\". The Robinson projection is neither equal-area nor conformal, abandoning both for a compromise. The creator felt this produced a better overall view than could be achieved by adhering to either. The meridians curve gently, avoiding extremes, but thereby stretch the poles into long lines instead of leaving them as points. Hence, distortion close to the poles is severe,",
+        "score": 1000
+      },
+      {
+        "doc_id": "2279250",
+        "title": "Robinson projection",
+        "text": "purpose world maps in 1988, replacing the Van der Grinten projection. In 1998 NGS abandoned the Robinson projection for that use in favor of the Winkel tripel projection, as the latter \"reduces the distortion of land masses as they near the poles\". The Robinson projection is neither equal-area nor conformal, abandoning both for a compromise. The creator felt this produced a better overall view than could be achieved by adhering to either. The meridians curve gently, avoiding extremes, but thereby stretch the poles into long lines instead of leaving them as points. Hence, distortion close to the poles is severe,",
+        "score": 17.049105
+      }
+    ],
+    "num_relevant_docs": 2,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 10,
+    "question": "what is the name of wonder womans mother",
+    "answers": [
+      "Queen Hippolyta"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "1052557",
+        "title": "Wonder Woman",
+        "text": "her mother Queen Hippolyta and was given a life to live as an Amazon, along with superhuman powers as gifts by the Greek gods. In recent years, DC changed her background with the revelation that she is the daughter of Zeus and Hippolyta, jointly raised by her mother and her aunts Antiope and Menalippe. The character has changed in depiction over the decades, including briefly losing her powers entirely in the 1970s; by the 1980s, artist George Perez gave her a muscular look and emphasized her Amazonian heritage. She possesses an arsenal of advanced technology, including the Lasso of Truth,",
+        "score": 1000
+      },
+      {
+        "doc_id": "3505420",
+        "title": "Wonder Girl",
+        "text": "Following this issue were several Wonder Girl adventures, and years later an additional character, Wonder Tot—Wonder Woman as a toddler—was also featured. Kanigher restored the character's made-from-clay origin in 1966. From \"Wonder Woman\" (vol. 1) #124 (August 1961) onward, Wonder Woman, Wonder Girl, and Wonder Tot frequently appeared together in stories that were labeled \"impossible tales\", presented as films made by Wonder Woman's mother, Queen Hippolyta, who had the power to splice together films of herself and Diana at different ages. The characters of Wonder Girl and Wonder Woman then began to diverge, as Bob Haney wrote Wonder Girl stories",
+        "score": 8.473443
+      }
+    ],
+    "num_relevant_docs": 2,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 11,
+    "question": "which apostle had a thorn in his side",
+    "answers": [
+      "Paul"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "776299",
+        "title": "Thorn in the flesh",
+        "text": "based on the description in Numbers 33:55. As an example usage, the \"Oxford English Dictionary\" cites E. M. Forster's 1924 novel \"A Passage to India,\" in which Nawab Bahadur says, \"I can be a thorn in Mr. Turton's flesh, and if he asks me I accept the invitation.\" Thorn in the flesh Thorn in the flesh is a phrase of New Testament origin used to describe a chronic infirmity, annoyance, or trouble in one's life, drawn from Paul the Apostle's use of the phrase in his Second Epistle to the Corinthians 12:7–9: Other biblical passages where \"thorn\" is used as",
+        "score": 1000
+      },
+      {
+        "doc_id": "17554713",
+        "title": "Four Upbuilding Discourses, 1844",
+        "text": "into speculative enterprises for scholars as well as lay ministers. Here he discusses \"the thorn in the flesh\" and \"caught up in the third heaven.\" The Apostle Paul had experience and an assured spirit yet he had this thorn in the side and the order not to discuss being caught up in the third heaven. This unsettled Paul, since he wanted to know all things, and had conflict in his soul. Kierkegaard writes elegantly about Paul's search for peace. Those who interpret the Bible can do harm to the single individual who is reading the interpretation because of the way",
+        "score": 13.595384
+      },
+      {
+        "doc_id": "4528082",
+        "title": "The Way International",
+        "text": "cross upon which Jesus was crucified was not the traditional T-shaped cross, but rather a stake or the trunk of a tree. Furthermore, Jesus did not carry his cross; rather, after leaving the judgment hall, the soldiers immediately compelled Simon of Cyrene to bear the cross all the way to Calvary per the three Gospel accounts in , and . The one account in which states \"And he bearing his cross...\", Wierwille believed refers to Jesus' spiritual \"bearing of sin\". The \"thorn in the flesh\" in is individuals sent by Satan to disrupt the apostle Paul's ministry, not an illness",
+        "score": 10.480783
+      },
+      {
+        "doc_id": "776298",
+        "title": "Thorn in the flesh",
+        "text": "thorn has been seen as a physical impediment that made Paul the object of ridicule, without necessarily making him physically weak. Peter Marshall suggests a \"social debilitating disease or disfigurement\" that would undermine his visionary claims. Others propose a speech impediment, which might explain the Corinthian accusation that he was forceful in writing but unimpressive in person (2 Cor 10:9-11). Other interpretations include: The phrase \"thorn in the flesh\" continues to be used as a metaphor for \"a source of continual annoyance or trouble.\" It is synonymous with the phrase \"thorn in the side,\" which is also of biblical origin,",
+        "score": 10.300452
+      },
+      {
+        "doc_id": "18500141",
+        "title": "The Thorn in Mrs. Rose's Side",
+        "text": "The Thorn in Mrs. Rose's Side The Thorn in Mrs. Rose's Side is the debut album by Biff Rose. It was released in 1968 on Bill Cosby's music label Tetragrammaton Records. \"Fill Your Heart\" was written together with American composer, singer-songwriter, and actor Paul Williams. The two met while working together on a television comedy show. Tiny Tim released \"Fill Your Heart\" on his album, \"God Bless Tiny Tim\", six months before Biff Rose's own version. It was also released as the B-side of Tiny Tim's 1968 hit, \"Tiptoe Through the Tulips\". David Bowie took a liking to “Fill Your",
+        "score": 9.990877
+      },
+      {
+        "doc_id": "11206518",
+        "title": "Efficacy of prayer",
+        "text": "that God shall not be coerced (Deuteronomy 6:16 - \"You shall not put the Lord your God to the test\"), some prayers for healing have been purposely rejected by God before (2 Corinthians 12:7-9 - Apostle Paul's thorn in the flesh), or specific conditions would have to be met before prayers can be heard (having guidance by the Holy Spirit). In Christianity, there is an emphasis for the need for guidance from the Holy Spirit as to what needs to be prayed for and have taught that \"God can not be coerced.\" Philosophically, there is controversy on this topic which",
+        "score": 9.133192
+      },
+      {
+        "doc_id": "17853437",
+        "title": "George Harris (Queensland politician)",
+        "text": "J. and G. Harris, merchants\". The partnership was dissolved some years later, after which George Harris then embarked in business as a merchant on his own account under the name \"Messrs. George Harris and Co\", a business he continued to operate until his death. On 13 October 1860, he married Jane Thorn, the daughter of George Thorn (senior) of the Normanby pastoral station and a Member of the Queensland Legislative Assembly, at St Paul's Church in Ipswich, Queensland. Jane's brother George Thorn would later also enter the Queensland Legislative Assembly and become Queensland Premier. The couple had the following children:",
+        "score": 8.885224
+      },
+      {
+        "doc_id": "15833665",
+        "title": "John Thorn (headmaster)",
+        "text": "had one son and one daughter. His wife died in 1999. In 1989 he published an autobiography, \"The Road to Winchester\". Now in his nineties, he is a member of the Garrick Club and resides in Winchester. John Thorn (headmaster) John Leonard Thorn (born 28 April 1925) is a writer and educational consultant. He was headmaster of Repton School from 1961 to 1968 and then of Winchester College until 1985. He was Chairman of the Headmasters' Conference for 1981. The son of Stanley and Winifred Thorn, Thorn was educated at St Paul's School, London, and at Corpus Christi College, Cambridge.",
+        "score": 8.858658
+      },
+      {
+        "doc_id": "847008",
+        "title": "Caesarea Maritima",
+        "text": "later had a house there in which he gave hospitality to Paul the Apostle. It was there that Peter the Apostle came and baptized Cornelius the Centurion and his household, the first time Christian baptism was conferred on Gentiles. When newly converted Paul the Apostle was in danger in Jerusalem, the Christians there accompanied him to Caesarea and sent him off to his native Tarsus. He visited Caesarea between his second and third missionary journeys, and later, as mentioned, stayed several days there with Philip the Deacon. Later still, he was a prisoner there for two years before being sent",
+        "score": 8.785924
+      }
+    ],
+    "num_relevant_docs": 9,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 12,
+    "question": "where is each type of cartilage located in the body",
+    "answers": [
+      "ear",
+      "nose",
+      "intervertebral discs",
+      "many other body components",
+      "bronchial tubes",
+      "rib cage"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "1438870",
+        "title": "Cartilage",
+        "text": "Cartilage Cartilage is a resilient and smooth elastic tissue, a rubber-like padding that covers and protects the ends of long bones at the joints, and is a structural component of the rib cage, the ear, the nose, the bronchial tubes, the intervertebral discs, and many other body components. It is not as hard and rigid as bone, but it is much stiffer and much less flexible than muscle.The matrix of cartilage is made up of chondrin. Because of its rigidity, cartilage often serves the purpose of holding tubes open in the body. Examples include the rings of the trachea, such",
+        "score": 1000
+      },
+      {
+        "doc_id": "20693708",
+        "title": "Artificial cartilage",
+        "text": "synthetic cartilage to be used in joint spaces, high mechanical strength under compression needs to be an intrinsic property of the material. There are three types of cartilage in the human body: fibrocartilage, hyaline cartilage and elastic cartilage. Each type of cartilage has varying concentrations of components such as proteoglycans, collagen and water which determine its functional properties and location in the body. Fibrocartilage is most often found in the intervertebral discs, elastic cartilage is found in the external ear and hyaline cartilage is found on many joint surfaces in the body. Replacement of hyaline cartilage (articular cartilage) is the",
+        "score": 15.899773
+      },
+      {
+        "doc_id": "1970282",
+        "title": "Rhinoplasty",
+        "text": "surgeon uses either an autologous cartilage graft or a bone graft, or both, in order to strengthen or to alter the nasal contour(s). The autologous grafts usually are harvested from the nasal septum, but, if it has insufficient cartilage (as can occur in a revision rhinoplasty), then either a costal cartilage graft (from the rib cage) or an auricular cartilage graft (concha from the ear) is harvested from the patient’s body. When the rhinoplasty requires a bone graft, it is harvested from either the cranium, the hips, or the rib cage; moreover, when neither type of autologous graft is available,",
+        "score": 12.318567
+      },
+      {
+        "doc_id": "4173364",
+        "title": "Elastic cartilage",
+        "text": "Elastic cartilage Elastic cartilage or yellow cartilage is a type of cartilage present in the outer ear, Eustachian tube and epiglottis. It contains elastic fiber networks and collagen type II fibers. The principal protein is elastin. Elastic cartilage is histologically similar to hyaline cartilage but contains many yellow elastic fibers lying in a solid matrix. These fibers form bundles that appear dark under a microscope. These fibers give elastic cartilage great flexibility so that it is able to withstand repeated bending. The chondrocytes lie between the fibres. It is found in the epiglottis (part of the larynx), the pinnae (the",
+        "score": 11.598083
+      },
+      {
+        "doc_id": "4173365",
+        "title": "Elastic cartilage",
+        "text": "external ear flaps of many mammals). Elastin fibers stain dark purple/black with Verhoeff's stain. Elastic cartilage Elastic cartilage or yellow cartilage is a type of cartilage present in the outer ear, Eustachian tube and epiglottis. It contains elastic fiber networks and collagen type II fibers. The principal protein is elastin. Elastic cartilage is histologically similar to hyaline cartilage but contains many yellow elastic fibers lying in a solid matrix. These fibers form bundles that appear dark under a microscope. These fibers give elastic cartilage great flexibility so that it is able to withstand repeated bending. The chondrocytes lie between the",
+        "score": 11.570251
+      },
+      {
+        "doc_id": "4727012",
+        "title": "Conch piercing",
+        "text": "cartilage. The human body cannot replace cartilage, so once the infection clears up, parts of the ear can actually collapse without the necessary support. Conch piercing A conch piercing is a perforation of the cartilage of the ear for the purpose of inserting and wearing jewelry. There are two types of conch piercings, inner and outer. The name is derived from the resemblance of this part of the ear to a conch (sea creature) shell. The inner conch piercing is located at the center of the ear, the cup-shaped area adjacent to the ear canal. An outer conch piercing is",
+        "score": 11.293527
+      },
+      {
+        "doc_id": "19895772",
+        "title": "Cartilage conduction",
+        "text": "aid Cartilage conduction can be particularly useful for patients with disorders of the outer ear, including aural atresia, where conventional air conduction hearing aids cannot be used. The basic premise of cartilage conduction hearing aids is that cartilage located outside the ear canal is vibrated, such that the vibration can be transmitted despite the presence of any outer ear disorders. Because hearing contributes to language development, the practical availability of cartilage conduction hearing aids would be beneficial to children who suffer from disorders of the outer ear. Currently, a cartilage conduction hearing aid is being developed by RION CO., LTD.",
+        "score": 11.220234
+      },
+      {
+        "doc_id": "369024",
+        "title": "Skeleton",
+        "text": "intervertebral discs. It is not as hard and rigid as bone but is stiffer and less flexible than muscle. Cartilage is composed of specialized cells called chondrocytes that produce a large amount of extracellular matrix composed of Type II collagen (except Fibrocartilage which also contains type I collagen) fibers, abundant ground substance rich in proteoglycan, and elastin fibers. Cartilage is classified in three types, elastic cartilage, hyaline cartilage and fibrocartilage, which differ in the relative amounts of these three main components. Unlike other connective tissues, cartilage does not contain blood vessels. The chondrocytes are supplied by diffusion, helped by the",
+        "score": 11.142176
+      },
+      {
+        "doc_id": "19895774",
+        "title": "Cartilage conduction",
+        "text": "kept clean because one’s face or ear does not directly contact the smartphone’s surface. The cartilage conduction phone can also be used simultaneously with conventional air conduction hearing aids, which is good news for hearing-impaired people. 3) Earphone The ear canal is not physically occluded by an earphone that operates via cartilage conduction. As such, this type of earphone allows one to hear alarm signals. Similar to the cartilage conduction smartphones, no sound is leaked from this type of earphone. Prototypes of such earphones have been manufactured by ROHM Co, Ltd. 4) Robot Cartilage conduction has been considered for communicating",
+        "score": 11.046366
+      },
+      {
+        "doc_id": "1438870",
+        "title": "Cartilage",
+        "text": "Cartilage Cartilage is a resilient and smooth elastic tissue, a rubber-like padding that covers and protects the ends of long bones at the joints, and is a structural component of the rib cage, the ear, the nose, the bronchial tubes, the intervertebral discs, and many other body components. It is not as hard and rigid as bone, but it is much stiffer and much less flexible than muscle.The matrix of cartilage is made up of chondrin. Because of its rigidity, cartilage often serves the purpose of holding tubes open in the body. Examples include the rings of the trachea, such",
+        "score": 11.036819
+      },
+      {
+        "doc_id": "8694860",
+        "title": "Collagen, type XXVII, alpha 1",
+        "text": "is located on chromosome 9 in homo sapiens specifically on spot number 32. Collagen, type XXVII, alpha 1 Collagen alpha-1 (XXVII) chain (COL27A1) is a protein that in humans is encoded by the \"COL27A1\" gene. COL27A1 is a type XXVII collagen. It was discovered by James Pace. This gene appears to be turned on in cartilage, the eye, and in the ear. Type XXVII collagen is related to the \"fibrillar\" class of collagens and may play a role in development of the skeleton. Fibrillar collagens, such as COL27A1, compose one of the most ancient families of extracellular matrix molecules. They",
+        "score": 10.454246
+      },
+      {
+        "doc_id": "8962150",
+        "title": "Orbital piercing",
+        "text": "Orbital piercing An orbital piercing is a combination of two ear piercings connected by one piece of jewelry. Usually located in the helix region of the ear, an Orbital Piercing can be done anywhere on the body including your earlobes. This piercing is not to be confused with an industrial, a conch piercing or double cartilage piercing. A professional piercer will have a sterilized hollowed gauge needle a captive bead ring for jewelry, and a pair of pliers. The piercer will take a marker and mark the placement of where you want your piercing. They will then take the hollow",
+        "score": 10.41813
+      },
+      {
+        "doc_id": "1800642",
+        "title": "Nose piercing",
+        "text": "septum piercing is mostly done. Piercing the skin instead of the cartilage can greatly minimize the pain, as well as other discomforts associated with this type of body piercing. This piercing should be done only with a needle. As far as jewelry is concerned, captive bead rings, circular barbells, plugs, tusks, curls, and septum retainer can be used. Some Nose Ring Metals Are Safe and Some Cause Allergies or Sensitivity You can also get bacteria through swimming pools, bodies of water and baths. All types of body piercings, including septum piercing, are associated with the risk of contracting certain blood",
+        "score": 10.370672
+      },
+      {
+        "doc_id": "19895775",
+        "title": "Cartilage conduction",
+        "text": "with robots. Currently, loudspeaker systems are used to convey sounds produced by robots. However, such loudspeakers generate loud noises in a room filled with many robots that simultaneously emit speech sounds. Therefore, a man-to-man communication system is needed to overcome this problem. Cartilage conduction can realize better communication than loudspeaker systems. It was initially thought that cartilage conduction was a type of bone conduction. However, several studies demonstrated that the mechanisms of cartilage conduction differ from that of bone conduction. Bone conduction is attributed to bone vibration at the skull, which is transmitted to the inner ear. In contrast, cartilage",
+        "score": 10.336737
+      },
+      {
+        "doc_id": "7227659",
+        "title": "Meckel's cartilage",
+        "text": "Meckel's cartilage In humans, the cartilaginous bar of the mandibular arch is formed by what are known as Meckel’s cartilages (right and left) also known as Meckelian cartilages; above this the incus and malleus are developed. Meckel's cartilage arises from the first pharyngeal arch. The dorsal end of each cartilage is connected with the ear-capsule and is ossified to form the malleus; the ventral ends meet each other in the region of the symphysis menti, and are usually regarded as undergoing ossification to form that portion of the mandible which contains the incisor teeth. The intervening part of the cartilage",
+        "score": 10.30375
+      },
+      {
+        "doc_id": "7227662",
+        "title": "Meckel's cartilage",
+        "text": "eutriconodonts, the Meckel's cartilage still connected otherwise entirely modern ear bones to the jaw. Meckel's cartilage In humans, the cartilaginous bar of the mandibular arch is formed by what are known as Meckel’s cartilages (right and left) also known as Meckelian cartilages; above this the incus and malleus are developed. Meckel's cartilage arises from the first pharyngeal arch. The dorsal end of each cartilage is connected with the ear-capsule and is ossified to form the malleus; the ventral ends meet each other in the region of the symphysis menti, and are usually regarded as undergoing ossification to form that portion",
+        "score": 10.299128
+      },
+      {
+        "doc_id": "8694859",
+        "title": "Collagen, type XXVII, alpha 1",
+        "text": "Collagen, type XXVII, alpha 1 Collagen alpha-1 (XXVII) chain (COL27A1) is a protein that in humans is encoded by the \"COL27A1\" gene. COL27A1 is a type XXVII collagen. It was discovered by James Pace. This gene appears to be turned on in cartilage, the eye, and in the ear. Type XXVII collagen is related to the \"fibrillar\" class of collagens and may play a role in development of the skeleton. Fibrillar collagens, such as COL27A1, compose one of the most ancient families of extracellular matrix molecules. They form major structural elements in extracellular matrices of cartilage, skin, and tendon. COL27A1",
+        "score": 10.235884
+      },
+      {
+        "doc_id": "2489592",
+        "title": "Fibrocartilage",
+        "text": "Fibrocartilage White fibrocartilage consists of a mixture of white fibrous tissue and cartilaginous tissue in various proportions. It owes its inflexibility and toughness to the former of these constituents, and its elasticity to the latter. It is the only type of cartilage that contains type I collagen in addition to the normal type II. Fibrocartilage is found in the soft tissue-to-bone attachments, pubic symphysis, the anulus fibrosus of intervertebral discs, menisci, the triangular fibrocartilage and the TMJ. During labor, relaxin loosens the pubic symphysis to aid in delivery, but this can lead to later joint problems. If hyaline cartilage is",
+        "score": 10.086339
+      },
+      {
+        "doc_id": "6152616",
+        "title": "Costochondral joint",
+        "text": "Costochondral joint The costochondral joints are the joints between the ribs and costal cartilage in the front of the rib cage. They are hyaline cartilaginous joints (i.e. synchondrosis or primary cartilagenous joint). Each rib has a depression shaped like a cup that the costal cartilage articulates with. There is normally no movement at these joints. Joints between costal cartilages of the sixth and ninth rib are plane synovial joints. Articulation between costal cartilage of the ninth rib and tenth rib is fibrous. The lateral end of each costal cartilage is received into a depression in the sternal end of the",
+        "score": 10.035701
+      },
+      {
+        "doc_id": "6152617",
+        "title": "Costochondral joint",
+        "text": "rib, and the two are held together by the periosteum. Costochondral joint The costochondral joints are the joints between the ribs and costal cartilage in the front of the rib cage. They are hyaline cartilaginous joints (i.e. synchondrosis or primary cartilagenous joint). Each rib has a depression shaped like a cup that the costal cartilage articulates with. There is normally no movement at these joints. Joints between costal cartilages of the sixth and ninth rib are plane synovial joints. Articulation between costal cartilage of the ninth rib and tenth rib is fibrous. The lateral end of each costal cartilage is",
+        "score": 10.021118
+      },
+      {
+        "doc_id": "19895773",
+        "title": "Cartilage conduction",
+        "text": "2) Smartphone/Cell phone Recently, a smartphone prototype using the benefits of cartilage conduction has been manufactured by ROHM Co., Ltd. This type of the smartphone provides clearer sound compared with conventional phones, even under noisy circumstances. Furthermore, the sound pressure level can be easily modified by adjusting the physical pressure level of the smartphone pressed against the outer ear. Importantly, the cartilage vibration, which is a sound source, can be heard only by oneself but not by others because sound from cartilage vibration cannot be leaked outside. This makes talking in public easy. In addition, the smartphone’s surface can be",
+        "score": 9.974209
+      }
+    ],
+    "num_relevant_docs": 21,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 13,
+    "question": "who wrote the song two out of three ai n 't bad",
+    "answers": [
+      "Meat Loaf"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "9662543",
+        "title": "Two Out of Three Ain't Bad",
+        "text": "Two Out of Three Ain't Bad \"Two Out of Three Ain't Bad\" is a power ballad performed by the American musician Meat Loaf. It is a track off his 1977 album \"Bat Out of Hell\", written by Jim Steinman. It reached #11 on the \"Billboard\" Hot 100 and earned a million-selling Gold single from the RIAA. It remains his second highest-charting hit in the US, behind \"I'd Do Anything For Love (But I Won't Do That)\", and stands as one of his career signature tunes, still enjoying recurrent airplay. It was the final song written for the album. In a",
+        "score": 1000
+      },
+      {
+        "doc_id": "9662543",
+        "title": "Two Out of Three Ain't Bad",
+        "text": "Two Out of Three Ain't Bad \"Two Out of Three Ain't Bad\" is a power ballad performed by the American musician Meat Loaf. It is a track off his 1977 album \"Bat Out of Hell\", written by Jim Steinman. It reached #11 on the \"Billboard\" Hot 100 and earned a million-selling Gold single from the RIAA. It remains his second highest-charting hit in the US, behind \"I'd Do Anything For Love (But I Won't Do That)\", and stands as one of his career signature tunes, still enjoying recurrent airplay. It was the final song written for the album. In a",
+        "score": 11.419951
+      },
+      {
+        "doc_id": "4240216",
+        "title": "Bad for Good",
+        "text": "for Bonnie Tyler. He used excerpts from \"The Storm\" for \"Opening of the Box\" on the Pandora's Box album \"Original Sin\", and in the \"Ouverture\" for the musical \"Dance of the Vampires (musical)\". Comedy Duo Scharpling & Wurster's sketch \"The Gas Station Dogs\" from their \"New Hope for the Ape-Eared\" album featured a delusional singer-songwriter promoting a song called \"Rock n' Roll Dreams Will Come Through.\" Meat Loaf has recorded most of \"Bad for Good\": Bad for Good Bad for Good is a 1981 album by American songwriter Jim Steinman. Steinman wrote all of the songs and performed on most,",
+        "score": 10.864012
+      }
+    ],
+    "num_relevant_docs": 3,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 14,
+    "question": "where is human sperm stored in the body",
+    "answers": [
+      "in the epididymis"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "5651164",
+        "title": "Sperm",
+        "text": "starting as a totipotent zygote. The human sperm cell is haploid, so that its 23 chromosomes can join the 23 chromosomes of the female egg to form a diploid cell. In mammals, sperm develops in the testicles, is stored in the epididymis, and released from the penis. The main sperm function is to reach the ovum and fuse with it to deliver two sub-cellular structures: (i) the male pronucleus that contains the genetic material and (ii) the centrioles that are structures that help organize the microtubule cytoskeleton. The mammalian sperm cell can be divided in 2 parts: The neck or",
+        "score": 1000
+      },
+      {
+        "doc_id": "2748751",
+        "title": "Spermatogenesis",
+        "text": "system. The initial stages occur within the testes and progress to the epididymis where the developing gametes mature and are stored until ejaculation. The seminiferous tubules of the testes are the starting point for the process, where spermatogonial stem cells adjacent to the inner tubule wall divide in a centripetal direction—beginning at the walls and proceeding into the innermost part, or \"lumen\"—to produce immature sperm. Maturation occurs in the epididymis. The location [Testes/Scrotum] is specifically important as the process of spermatogenesis requires a lower temperature to produce viable sperm, specifically 1°-8 °C lower than normal body temperature of 37 °C",
+        "score": 13.069676
+      },
+      {
+        "doc_id": "5651164",
+        "title": "Sperm",
+        "text": "starting as a totipotent zygote. The human sperm cell is haploid, so that its 23 chromosomes can join the 23 chromosomes of the female egg to form a diploid cell. In mammals, sperm develops in the testicles, is stored in the epididymis, and released from the penis. The main sperm function is to reach the ovum and fuse with it to deliver two sub-cellular structures: (i) the male pronucleus that contains the genetic material and (ii) the centrioles that are structures that help organize the microtubule cytoskeleton. The mammalian sperm cell can be divided in 2 parts: The neck or",
+        "score": 12.944105
+      },
+      {
+        "doc_id": "2448405",
+        "title": "Epididymis",
+        "text": "formed in the testis enter the caput epididymis, progress to the corpus, and finally reach the cauda region, where they are stored. Sperm entering the caput epididymis are incomplete—they lack the ability to swim forward (motility) and to fertilize an egg. Epididymal transit takes 2-3 days in humans (longer in other species), but the sperm can be stored in the cauda for 2–3 days. During their transit in the epididymis, sperm undergo maturation processes necessary for them to acquire motility and fertility. Final maturation \"(capacitation\") is completed in the female reproductive tract. The epididymis secretes an intraluminal environment that suppresses",
+        "score": 12.197797
+      }
+    ],
+    "num_relevant_docs": 4,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 15,
+    "question": "when did bat out of hell get released",
+    "answers": [
+      "September 1977"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "2310751",
+        "title": "Bat Out of Hell",
+        "text": "Bat Out of Hell Bat Out of Hell is the debut studio album by American rock singer Meat Loaf, as well as his first collaboration with composer Jim Steinman and producer Todd Rundgren. The album was released in September 1977 on Cleveland International/Epic Records. It is one of the best-selling albums of all time, having sold over 43 million copies worldwide. \"Rolling Stone\" \"Magazine\" ranked it at number 343 on its list of the 500 greatest albums of all time in 2003. Its musical style is influenced by Steinman's appreciation of Richard Wagner, Phil Spector, Bruce Springsteen and The Who.",
+        "score": 1000
+      },
+      {
+        "doc_id": "2310773",
+        "title": "Bat Out of Hell",
+        "text": "bat out of Hell: Steinman registered \"Bat Out of Hell\" as a trademark in 1995, and sought to prevent Meat Loaf from using the title. In 2006, however, the singer sought to cancel Steinman's trademark and use the title for \"\". \"Bat Out of Hell\" was released by Cleveland International Records in September 1977. However, at Cleveland International Records' parent label, Epic Records, almost everyone hated it. Steve Popovich, the head of Cleveland International Records, was relentless in his efforts to get Epic and all of CBS Records and radio on board. In 1993, Steinman reflected that the album was",
+        "score": 16.741936
+      },
+      {
+        "doc_id": "2310751",
+        "title": "Bat Out of Hell",
+        "text": "Bat Out of Hell Bat Out of Hell is the debut studio album by American rock singer Meat Loaf, as well as his first collaboration with composer Jim Steinman and producer Todd Rundgren. The album was released in September 1977 on Cleveland International/Epic Records. It is one of the best-selling albums of all time, having sold over 43 million copies worldwide. \"Rolling Stone\" \"Magazine\" ranked it at number 343 on its list of the 500 greatest albums of all time in 2003. Its musical style is influenced by Steinman's appreciation of Richard Wagner, Phil Spector, Bruce Springsteen and The Who.",
+        "score": 13.685554
+      }
+    ],
+    "num_relevant_docs": 3,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 16,
+    "question": "when were manatees put on the endangered list",
+    "answers": [
+      "1966"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "12724306",
+        "title": "Manatee conservation",
+        "text": "fine of $500 and/or six months of jail time for molesting or killing a manatee. In accordance with the Endangered Species Preservation Act of 1966, an act of Congress designed to list endangered animal species and offer them limited protection, the manatee became one of 78 original species listed as being threatened with extinction. There are currently more than 1300 species on this list. On March 11, 1967 federal efforts to protect the manatee began when the United States Fish and Wildlife Service listed the manatee as endangered. In 1972, the manatee was designated a marine mammal protected under the",
+        "score": 1000
+      },
+      {
+        "doc_id": "12724307",
+        "title": "Manatee conservation",
+        "text": "Federal Marine Mammal Protection Act. This act prohibited the removal of any marine mammal and imposed a fine of up to $2000 and/or one year in jail for doing so. The Endangered Species Act of 1966 was revised in 1973 and increased federal protection of manatees. The “act made it a violation to harass, harm, pursue, hunt, shoot, wound, kill, capture, or collect an endangered species…authorized cooperative agreements between states and the federal government with funding management, research and law enforcement.” In 1974 the Sirenia Project was established in Gainesville, Florida to provide manatee documentation and rescue programs. In 1976,",
+        "score": 9.97422
+      },
+      {
+        "doc_id": "12724306",
+        "title": "Manatee conservation",
+        "text": "fine of $500 and/or six months of jail time for molesting or killing a manatee. In accordance with the Endangered Species Preservation Act of 1966, an act of Congress designed to list endangered animal species and offer them limited protection, the manatee became one of 78 original species listed as being threatened with extinction. There are currently more than 1300 species on this list. On March 11, 1967 federal efforts to protect the manatee began when the United States Fish and Wildlife Service listed the manatee as endangered. In 1972, the manatee was designated a marine mammal protected under the",
+        "score": 9.69873
+      }
+    ],
+    "num_relevant_docs": 3,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 17,
+    "question": "when was the first manmade object sent into space",
+    "answers": [
+      "3 October 1942"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "386514",
+        "title": "Space exploration",
+        "text": "Google Lunar X Prize). The highest known projectiles prior to the rockets of the 1940s were the shells of the Paris Gun, a type of German long-range siege gun, which reached at least 40 kilometers altitude during World War One. Steps towards putting a human-made object into space were taken by German scientists during World War II while testing the V-2 rocket, which became the first human-made object in space on 3 October 1942 with the launching of the A-4. After the war, the U.S. used German scientists and their captured rockets in programs for both military and civilian research.",
+        "score": 1000
+      },
+      {
+        "doc_id": "386514",
+        "title": "Space exploration",
+        "text": "Google Lunar X Prize). The highest known projectiles prior to the rockets of the 1940s were the shells of the Paris Gun, a type of German long-range siege gun, which reached at least 40 kilometers altitude during World War One. Steps towards putting a human-made object into space were taken by German scientists during World War II while testing the V-2 rocket, which became the first human-made object in space on 3 October 1942 with the launching of the A-4. After the war, the U.S. used German scientists and their captured rockets in programs for both military and civilian research.",
+        "score": 9.254893
+      }
+    ],
+    "num_relevant_docs": 2,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 18,
+    "question": "who is the chief legal advisor to the government",
+    "answers": [
+      "Law Officers of the Crown"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "2926033",
+        "title": "Law Officers of the Crown",
+        "text": "(or Queen's Advocate when the monarch was female). This office has been vacant since the resignation of its last holder in 1872. Law Officers of the Crown F In England and Wales, Northern Ireland and most Commonwealth and colonial governments, the chief law officer of the Crown is the Attorney General. In England and Wales the Attorney General is supported by the Solicitor General. Following devolution of justice to the Scottish Parliament a new position of Advocate General for Scotland was created to advise the UK Government on matters of Scots law. So there are three UK Government Law Officers:",
+        "score": 1000
+      }
+    ],
+    "num_relevant_docs": 1,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 19,
+    "question": "what do they call snowboarders in johnny tsunami",
+    "answers": [
+      "Urchins"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "6196069",
+        "title": "Johnny Tsunami",
+        "text": "sudden job transfer, the family is forced to move to Vermont, while Tsunami stays in Hawaii. In Kapahaala's new town, there are two schools: a private school where the students are skiers known as Skies; and the public school where the students are snowboarders known as Urchins. Johnny goes to the skiers' school, but would prefer to snowboard because he thinks it is more like surfing. After some difficulty, Johnny eventually learns how to snowboard with help from a new friend named Sam Sterling. At his new school, Johnny becomes good friends with a girl named Emily, who is Headmaster",
+        "score": 1000
+      },
+      {
+        "doc_id": "6196074",
+        "title": "Johnny Tsunami",
+        "text": "Brett and his gang encounter Johnny and Tsunami, and decide to have a one-race challenge between Brett and Johnny Kapahaala. If Johnny wins the race, then the skiers must share the mountain with the snowboarders. If Brett wins, then he is awarded the Tsunami Medal, a prize given to the best surfer in Hawaii. Pete encourages Johnny to win the race to keep the medal in the family. He wins the race, despite Brett's cheating attempts, allowing him and Emily to begin a relationship. Brett's friends congratulate Johnny and are inspired to learn how to snowboard with the Urchins. Johnny's",
+        "score": 16.955528
+      },
+      {
+        "doc_id": "6196069",
+        "title": "Johnny Tsunami",
+        "text": "sudden job transfer, the family is forced to move to Vermont, while Tsunami stays in Hawaii. In Kapahaala's new town, there are two schools: a private school where the students are skiers known as Skies; and the public school where the students are snowboarders known as Urchins. Johnny goes to the skiers' school, but would prefer to snowboard because he thinks it is more like surfing. After some difficulty, Johnny eventually learns how to snowboard with help from a new friend named Sam Sterling. At his new school, Johnny becomes good friends with a girl named Emily, who is Headmaster",
+        "score": 16.033743
+      },
+      {
+        "doc_id": "6196070",
+        "title": "Johnny Tsunami",
+        "text": "Pritchard's daughter. However, a skier named Brett likes Emily too and thinks Johnny is not right for her. The Urchins ride the side of the mountain that belongs to the skiers and are confronted by the Skies. Later, Emily nearly falls off the mountainside while learning how to snowboard with Johnny and his new friends. A fight ensues between Johnny and Brett regarding the incident, but is immediately dispersed when a snow ranger arrives. After a meeting with his parents and the headmaster concerning the fight with Brett, Sam tells Johnny that he is moving to Iceland, as are his",
+        "score": 9.223518
+      }
+    ],
+    "num_relevant_docs": 4,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 20,
+    "question": "who is tanyas husband in real housewives of cheshire",
+    "answers": [
+      "Phil Bardsley"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "7476917",
+        "title": "Tanya Bardsley",
+        "text": "her breast enlargement. Robinson has since posed topless in shoots for FHM and ZOO, including a shoot for \"Zoo\" with fellow High Street Honey Kayleigh Pearson. Tanya Bardsley Tanya Louise Bardsley (née Robinson; born 29 April 1981) is an English model, born in Wigan, Greater Manchester, and grew up in Richmond, North Yorkshire. She is currently starring in the reality television series \"The Real Housewives of Cheshire\". She is also the wife of footballer Phil Bardsley. Robinson has appeared on the cover of \"Zoo Weekly\", \"Ice\", and several times in \"FHM\" magazine, as being the winner of their inaugural \"High",
+        "score": 1000
+      }
+    ],
+    "num_relevant_docs": 1,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 21,
+    "question": "where are tight junctions found in the human body",
+    "answers": [
+      "vertebrates"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "5291388",
+        "title": "Tight junction",
+        "text": "the case. Epithelia are classed as \"tight\" or \"leaky\", depending on the ability of the tight junctions to prevent water and solute movement: Tight junction Tight junctions, also known as occluding junctions or zonulae occludentes (singular, zonula occludens) are multiprotein junctional complexes whose general function is to prevent leakage of transported solutes and water and seals the paracellular pathway. Tight junctions may also serve as leaky pathways by forming selective channels for small cations, anions, or water. Tight junctions are present only in vertebrates. The corresponding junctions that occur in invertebrates are septate junctions. Tight junctions are composed of a",
+        "score": 1000
+      },
+      {
+        "doc_id": "5291388",
+        "title": "Tight junction",
+        "text": "the case. Epithelia are classed as \"tight\" or \"leaky\", depending on the ability of the tight junctions to prevent water and solute movement: Tight junction Tight junctions, also known as occluding junctions or zonulae occludentes (singular, zonula occludens) are multiprotein junctional complexes whose general function is to prevent leakage of transported solutes and water and seals the paracellular pathway. Tight junctions may also serve as leaky pathways by forming selective channels for small cations, anions, or water. Tight junctions are present only in vertebrates. The corresponding junctions that occur in invertebrates are septate junctions. Tight junctions are composed of a",
+        "score": 14.745474
+      },
+      {
+        "doc_id": "5291385",
+        "title": "Tight junction",
+        "text": "Tight junction Tight junctions, also known as occluding junctions or zonulae occludentes (singular, zonula occludens) are multiprotein junctional complexes whose general function is to prevent leakage of transported solutes and water and seals the paracellular pathway. Tight junctions may also serve as leaky pathways by forming selective channels for small cations, anions, or water. Tight junctions are present only in vertebrates. The corresponding junctions that occur in invertebrates are septate junctions. Tight junctions are composed of a branching network of sealing strands, each strand acting independently from the others. Therefore, the efficiency of the junction in preventing ion passage increases",
+        "score": 14.412503
+      },
+      {
+        "doc_id": "2189178",
+        "title": "Gap junction",
+        "text": "channel is composed of two connexons (or hemichannels), which connect across the intercellular space. Gap junctions are analogous to the plasmodesmata that join plant cells. Gap junctions occur in virtually all tissues of the body, with the exception of adult fully developed skeletal muscle and mobile cell types such as sperm or erythrocytes. Gap junctions, however, are not found in simpler organisms such as sponges and slime molds. In vertebrates, gap junction hemichannels are primarily homo- or hetero-hexamers of connexin proteins. Invertebrate gap junctions comprise proteins from the innexin family. Innexins have no significant sequence homology with connexins. Though differing",
+        "score": 11.95734
+      },
+      {
+        "doc_id": "4925556",
+        "title": "Cell junction",
+        "text": "is the protein molecule responsible for the selective permeability between epithelial layers. A three-dimensional image is still yet to be achieved and as such specific information about the function of tight junctions is yet to be determined. Tricellular junctions seal epithelia at the corners of three cells. Due to the geometry of three-cell vertices, the sealing of the cells at these sites requires a specific junctional organization, different from those in bicellular junctions. In vertebrates, components tricellular junctions are tricellulin and lipolysis-stimulated lipoprotein receptors. In invertebrates, the components are gliotactin and anakonda. Tricellular junctions are also implicated in the regulation",
+        "score": 11.71805
+      }
+    ],
+    "num_relevant_docs": 5,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 22,
+    "question": "where was the mona lisa kept during ww2",
+    "answers": [
+      "the Ingres Museum",
+      "Château d'Amboise",
+      "Château de Chambord",
+      "the Loc - Dieu Abbey"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "793091",
+        "title": "Mona Lisa",
+        "text": "Franco-Prussian War (1870–71) it was moved from the Louvre to the Brest Arsenal. During World War II, \"Mona Lisa\" was again removed from the Louvre and taken safely, first to Château d'Amboise, then to the Loc-Dieu Abbey and Château de Chambord, then finally to the Ingres Museum in Montauban. In December 2015, it was reported that French scientist Pascal Cotte had found a hidden portrait underneath the surface of the painting using reflective light technology. The portrait is an underlying image of a model looking off to the side. Having been given access to the painting by Louvre in 2004,",
+        "score": 1000
+      }
+    ],
+    "num_relevant_docs": 1,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 23,
+    "question": "who is the old man in waiting on a woman",
+    "answers": [
+      "Andy Griffith"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "12168644",
+        "title": "Waitin' on a Woman",
+        "text": "in \"Waitin' on a Woman\" were \"delicately appropriate rather than insensitively obtuse\". Leeann Ward, reviewing the song for Country Universe, gave it a B rating. Ward said that while the song with its \"sluggish melody, is built on the stereotype that a woman is always late, there is a sweetness about the sentiment’s presentation that rescues it.\" Paisley has referred to \"Waitin' on a Woman\" as \"one of the most important songs\" that he's ever recorded. Because of the importance that he places on the song, Paisley asked Andy Griffith to star in the music video, as he felt that",
+        "score": 1000
+      },
+      {
+        "doc_id": "12168640",
+        "title": "Waitin' on a Woman",
+        "text": "appeared on \"Play\" with a guest vocal from Andy Griffith. The song is a mid-tempo composed of three verses. Its central character is a recently married male sitting on a bench at a shopping mall, waiting for his wife to finish shopping. He meets an older man (Andy Griffith) who, like him, is \"waitin' on a woman\". The older man explains over the next two verses that, although he has often had to wait for his wife, he does not mind doing so (\"I don't guess we've been anywhere / She hasn't made us late, I swear / Sometimes she",
+        "score": 11.179935
+      }
+    ],
+    "num_relevant_docs": 2,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 24,
+    "question": "who have won the world cup the most times",
+    "answers": [
+      "Brazil"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "145436",
+        "title": "FIFA World Cup",
+        "text": "preceding three years, to determine which teams qualify for the tournament phase, which is often called the \"World Cup Finals\". After this, 32 teams, including the automatically qualifying host nation(s), compete in the tournament phase for the title at venues within the host nation(s) over a period of about a month. The 21 World Cup tournaments have been won by eight national teams. Brazil have won five times, and they are the only team to have played in every tournament. The other World Cup winners are Germany and Italy, with four titles each; Argentina, France and inaugural winner Uruguay, with",
+        "score": 1000
+      },
+      {
+        "doc_id": "38173",
+        "title": "Brazil",
+        "text": "(modernism). The most popular sport in Brazil is football. The Brazilian men's national team is ranked among the best in the world according to the FIFA World Rankings, and has won the World Cup tournament a record five times. Volleyball, basketball, auto racing, and martial arts also attract large audiences. The Brazil men's national volleyball team, for example, currently holds the titles of the World League, World Grand Champions Cup, World Championship and the World Cup. In auto racing, three Brazilian drivers have won the Formula One world championship eight times. Some sport variations have their origins in Brazil: beach",
+        "score": 12.805949
+      },
+      {
+        "doc_id": "3121911",
+        "title": "Romário",
+        "text": "in the shoot-out, which ended in a 3–2 win for Brazil. Romário won the World Cup Golden Ball as the most valuable player of the tournament, and was named in the World Cup All-Star Team. Romário is also the last player to have won the Golden Ball and the World Cup in the same tournament. Described by Jere Longman of \"The New York Times\" as \"short on humility, long on talent\", Romário demanded a window seat on the team plane and refused to sit next to Bebeto. He did however join Bebeto in one of the most iconic images of",
+        "score": 11.85666
+      },
+      {
+        "doc_id": "437269",
+        "title": "Uruguay",
+        "text": "Uruguay by English sailors and labourers in the late 19th century. Less successfully, they introduced rugby and cricket. There are two Montevideo-based football clubs, Nacional and Peñarol, who are successful in domestic and South American tournaments and have won three Intercontinental Cups each. Besides football, the most popular sport in Uruguay is basketball. Its national team qualified for the Basketball World Cup 7 times, more often than other countries in South America, except Brazil and Argentina. Uruguay hosted the official Basketball World Cup for the 1967 FIBA World Championship and the official Americas Basketball Championship in 1988, 1997 and is",
+        "score": 11.720692
+      },
+      {
+        "doc_id": "11841492",
+        "title": "Argentina at the FIFA World Cup",
+        "text": "Argentina at the FIFA World Cup This is a record of Argentina's results at the FIFA World Cup. Argentina is one of the most successful national football teams in the world, having won two World Cups in 1978 and 1986. Argentina has been runners up three times in 1930, 1990 and 2014. The team was present in all but four of the World Cups, being behind only Brazil, Italy and Germany in number of appearances. Argentina has also won the Copa América 14 times, one less than Uruguay. Moreover, Argentina has also won the Confederations Cup and the gold medal",
+        "score": 11.690417
+      },
+      {
+        "doc_id": "11841480",
+        "title": "Argentina at the FIFA World Cup",
+        "text": "Argentina at the FIFA World Cup This is a record of Argentina's results at the FIFA World Cup. Argentina is one of the most successful national football teams in the world, having won two World Cups in 1978 and 1986. Argentina has been runners up three times in 1930, 1990 and 2014. The team was present in all but four of the World Cups, being behind only Brazil, Italy and Germany in number of appearances. Argentina has also won the Copa América 14 times, one less than Uruguay. Moreover, Argentina has also won the Confederations Cup and the gold medal",
+        "score": 11.690417
+      },
+      {
+        "doc_id": "19358500",
+        "title": "Brazil–Italy football rivalry",
+        "text": "Brazil–Italy football rivalry The Brazil–Italy football rivalry, also known as the Clásico Mundial in Spanish or the World Derby in English, is a football rivalry between the national football teams of Brazil and Italy, two of the most successful football nations in the world, having achieved nine World Cups between the two countries. They have played against each other five times in the World Cup. Most notably, the 1970 World Cup Final and the 1994 World Cup final in which Brazil won 4–1, and 3–2 on penalties after a goalless draw, respectively, as well as the semifinals of the 1938",
+        "score": 11.597084
+      },
+      {
+        "doc_id": "3874410",
+        "title": "Football in Italy",
+        "text": "Football in Italy Football (\"calcio\" in Italian) is the most popular sport in Italy. The Italian national football team is considered to be one of the best national teams in the world. They have won the FIFA World Cup four times (1934, 1938, 1982, 2006), trailing only Brazil (with 5), runners-up in two finals (1970, 1994) and reaching a third place (1990) and a fourth place (1978). They have also won one European Championship (1968), also appearing in two finals (2000, 2012), finished third at the Confederations Cup (2013), won one Olympic football tournament (1936) and two Central European International",
+        "score": 11.516037
+      },
+      {
+        "doc_id": "3860029",
+        "title": "Kuwait national football team",
+        "text": "team, and Bashar Abdullah is the top goalscorer in the history of the Kuwait national football team. Kuwait has won the Arabian Gulf Cup ten times, and is the most successful team in winning that competition. Kuwait's most historical manager was Luiz Felipe Scolari, who won the World Cup with Brazil, and was forced to leave the country after the 1990 invasion by Iraq. He led Kuwait to win the 1990 Gulf Cup beating Qatar in The Final. Kuwait's biggest win was against Bhutan which ended in a thrilling 20–0 win, which was the biggest win until Australia won 31–0",
+        "score": 11.384423
+      },
+      {
+        "doc_id": "17309480",
+        "title": "2014 FIFA World Cup knockout stage",
+        "text": "won their fourth World Cup penalty shoot-out, tied with Germany for most wins, and were involved in their fifth World Cup shoot-out, a record for any nation. <section begin=k2 /><section end=k2 /> The two teams had met in 11 previous meetings, including four times in the FIFA World Cup: Netherlands won 2–0 in the second group stage of the 1974 FIFA World Cup and 2–1 in the quarter-finals of the 2010 FIFA World Cup, and Brazil won 3–2 in the quarter-finals of the 1994 FIFA World Cup and 4–2 on penalties after a 1–1 draw (after extra time) in the",
+        "score": 11.358269
+      }
+    ],
+    "num_relevant_docs": 10,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 25,
+    "question": "who sang the original version of true colors",
+    "answers": [
+      "Cyndi Lauper"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "7546434",
+        "title": "True Colors (Cyndi Lauper song)",
+        "text": "his own mother. Tom Kelly altered the first verse and the duo originally submitted the song to Anne Murray, who passed on recording it, and then to Cyndi Lauper. Their demo was in the form of a piano-based gospel ballad like \"Bridge over Troubled Water\". Steinberg told Songfacts that \"Cyndi completely dismantled that sort of traditional arrangement and came up with something that was breathtaking and stark.\" Other songs they wrote for Lauper include \"I Drove All Night\" and \"Unconditional Love\", of which the former went on to be covered by Celine Dion, the latter by Susanna Hoffs. It reached",
+        "score": 1000
+      },
+      {
+        "doc_id": "7546433",
+        "title": "True Colors (Cyndi Lauper song)",
+        "text": "True Colors (Cyndi Lauper song) \"True Colors\" is a song written by American songwriters Billy Steinberg and Tom Kelly. It was both the title track and the first single released from American singer Cyndi Lauper's second album. It was the only original song on the album that Lauper did not help write. \"True Colors\" spent two weeks in the number one spot on the \"Billboard\" Hot 100, and was the last single from Lauper to occupy the top of the chart. It received a Grammy Award nomination for Best Female Pop Vocal Performance. Billy Steinberg originally wrote \"True Colors\" about",
+        "score": 11.174675
+      },
+      {
+        "doc_id": "7546439",
+        "title": "True Colors (Cyndi Lauper song)",
+        "text": "week it was released. In 2014, Shane Filan of Westlife released it as a promotional single for his debut album You and Me. In 2016, Justin Timberlake and Anna Kendrick performed a cover of the song for the animated film \"Trolls\" and its accompanying soundtrack. True Colors (Cyndi Lauper song) \"True Colors\" is a song written by American songwriters Billy Steinberg and Tom Kelly. It was both the title track and the first single released from American singer Cyndi Lauper's second album. It was the only original song on the album that Lauper did not help write. \"True Colors\" spent",
+        "score": 10.843274
+      },
+      {
+        "doc_id": "17165865",
+        "title": "67th Tony Awards",
+        "text": "the Best Performance by an Actress in a Musical category. The Tony Awards Administration Committee stated that they \"recognize their outstanding performances this season.\" The awards were presented at the Tony Eve Cocktail Party, a private cocktail reception, held on June 8, 2013, one day prior to the main ceremony. Larry Kramer received the Isabelle Stevenson Award. He was \"recognized for his work as the co-founder of Gay Men's Health Crisis\". The Huntington Theater Company in Boston, Massachusetts received the Regional Theatre Tony Award. During the tribute Cyndi Lauper sang the song True Colors. The ceremony's original live broadcast on",
+        "score": 10.829428
+      },
+      {
+        "doc_id": "17201338",
+        "title": "Michelle Chamuel",
+        "text": "Imogen Heap as major influences. She was influenced by the vocal styles of Heap and Ella Fitzgerald and said they \"opened me up to the idea that one could sing melodies like an instrument.\" Chamuel took part in the fourth season of NBC's \"The Voice\". In the blind audition she sang Katy Perry's \"I Kissed a Girl\" and chose Usher as her coach. In her first live performance she sang Cyndi Lauper's \"True Colors\". Over the next four live performances she was voted into the Top 5. Her rendition of \"Just Give Me a Reason\" was called a killer performance",
+        "score": 10.100226
+      },
+      {
+        "doc_id": "9848013",
+        "title": "Brother Leo (musician)",
+        "text": "of the Swedish edition of \"Idol\". In the initial audition in Malmö, he sang \"This I Promise You\" from 'N Sync and later \"Mandy\" from Barry Manilow / Westlife and finally \"Against All Odds\" from Phil Collins as a duet. Just 19 and coming from Lund, he performed his qualifying audition \"Show Me Heaven\", a song from Maria McKee. The audition was broadcast on 21 September 2005 on Swedish TV4 channel. In the live shows, he sang \"My All\" from Mariah Carey (Live Show 1, theme \"My Own Idol\"), \"True Colors\" from Cyndi Lauper (Live Show 2, theme: the 1980s)",
+        "score": 10.095371
+      },
+      {
+        "doc_id": "19730218",
+        "title": "Grace VanderWaal",
+        "text": "York City, and \"I Don't Know My Name\" in the 2016 Macy's Thanksgiving Day Parade, on NBC's \"Today\" show and at the Christmas tree lighting at South Street Seaport, in New York City, where she also sang \"Light the Sky\". In December, she sang \"I Don't Know My Name\" on \"The Wendy Williams Show\", at Cyndi Lauper's annual holiday fundraiser at the Beacon Theatre (where she also duetted with Lauper on \"True Colors\"), on CBS's \"The Talk\", and at Z100's Jingle Ball Tour 2016 stop at Madison Square Garden. In reviewing the last event, Jon Caramanica of \"The New York",
+        "score": 10.085915
+      },
+      {
+        "doc_id": "15166448",
+        "title": "Jotdog (album)",
+        "text": "Love You\", which they liked and decide to keep to themselves, to later include it on the album. To let people know these songs Amaro and Barracuda started a MySpace account without saying their names, \"so they [people] would listen without prejudice.\" After that, they started playing in bars and invite friends to play along, Ivan Gonzalez of Maná, and Midi of Moenia. The tracks were produced by Amaro and the lyrics wrote by him and Barracuda. The album includes 11 original songs and a cover version of \"True Colors\", originally performed by Cyndi Lauper. About performing the song, Barracuda",
+        "score": 9.900248
+      },
+      {
+        "doc_id": "904764",
+        "title": "True Colors (Cyndi Lauper album)",
+        "text": "True Colors (Cyndi Lauper album) True Colors is the second album by American pop singer Cyndi Lauper, released on September 15, 1986. The album produced several hits as \"True Colors\", \"Change of Heart\", and \"What's Going On\" reached the top twenty of the \"Billboard\" Hot 100, with the first two becoming top 5 hits. Upon its release, the album received generally positive reviews from music critics. The album earned Lauper several awards and accolades, including two nominations at the 29th Grammy Awards. \"True Colors\" peaked at number four on the \"Billboard\" 200 chart. Lauper said that the songs of the",
+        "score": 9.33588
+      },
+      {
+        "doc_id": "904767",
+        "title": "True Colors (Cyndi Lauper album)",
+        "text": "7 million copies worldwide. Production True Colors (Cyndi Lauper album) True Colors is the second album by American pop singer Cyndi Lauper, released on September 15, 1986. The album produced several hits as \"True Colors\", \"Change of Heart\", and \"What's Going On\" reached the top twenty of the \"Billboard\" Hot 100, with the first two becoming top 5 hits. Upon its release, the album received generally positive reviews from music critics. The album earned Lauper several awards and accolades, including two nominations at the 29th Grammy Awards. \"True Colors\" peaked at number four on the \"Billboard\" 200 chart. Lauper said",
+        "score": 9.331059
+      },
+      {
+        "doc_id": "17433476",
+        "title": "True Colors Fund",
+        "text": "True Colors Fund The True Colors Fund is an American nonprofit organization co-founded by Cyndi Lauper in 2008 to educate people regarding lesbian, gay, bisexual, and transgender (LGBT) issues and end LGBT youth homelessness. The True Colors Fund was founded in 2008 by Cyndi Lauper, her manager Lisa Barbaris, and agent Jonny Podell, following the success of Lauper's True Colors tour, which benefited LGBT foundations including the Human Rights Campaign, PFLAG, and the Matthew Shepard Foundation. In America, up to 1.6 million youth experience homelessness each year. LGBT youth make up to 40% of all young people experiencing homelessness, but",
+        "score": 9.330778
+      },
+      {
+        "doc_id": "17433488",
+        "title": "True Colors Fund",
+        "text": "Josh Groban, 50 Cent, Sharon Osbourne, Jason Mraz, Boy George, Ledisi, Nelly Furtado, Sarah McLachlan, Whoopi Goldberg, Adam Lambert, Rosie O'Donnell, Roberta Flack, Carson Kressley, Sufjan Stevens, and St. Vincent. True Colors Fund The True Colors Fund is an American nonprofit organization co-founded by Cyndi Lauper in 2008 to educate people regarding lesbian, gay, bisexual, and transgender (LGBT) issues and end LGBT youth homelessness. The True Colors Fund was founded in 2008 by Cyndi Lauper, her manager Lisa Barbaris, and agent Jonny Podell, following the success of Lauper's True Colors tour, which benefited LGBT foundations including the Human Rights Campaign,",
+        "score": 9.320882
+      },
+      {
+        "doc_id": "873466",
+        "title": "Cyndi Lauper",
+        "text": "to Have Fun' music video with a reusable sticker set. On September 17, 2014, Cyndi Lauper sang on the finale of \"America's Got Talent\". On September 25, as part of the Today Show's Shine a Light series, Lauper re-recorded \"True Colors\" in a mashup with Sara Bareilles' \"Brave\" to raise awareness and money for children battling cancer. By October the project had raised over $300,000. The Songwriters Hall of Fame included Lauper in its nomination list on October 2014. Also during October, Lauper's fourth consecutive 'Home for the Holidays' benefit concert for homeless gay youth was announced. Acts included 50",
+        "score": 9.122635
+      }
+    ],
+    "num_relevant_docs": 13,
+    "dataset": "nq_dev_psgs_w100"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "question": "How are firms like snapchat, uber etc valued so highly while still not making a profit? Do venture capitalists not expect some form of repayment within a number of years?",
+    "question_ctx": "[removed]",
+    "answer": "Yes. Did you watch The Social Network? They went a while before introducing ads, so they could make money, as they needed to establish their brand and amass users. Once you have dedicated users, introducing ads won't deter most, but if you are still new, having ads will deter a lot. The same goes for Uber, it's not that they aren't making money, it's that they are reinvesting a ton of it to make their service better.",
+    "claims": [
+      "Firms like Snapchat and Uber need to establish their brand and amass users before introducing ads.",
+      "Introducing ads too early can deter potential users.",
+      "Uber is reinvesting a lot of money to make their service better."
+    ],
+    "docs": [
+      {
+        "title": "Is Snapchat really worth $19 billion? - CSMonitor.com",
+        "text": "reporting that the Los Angeles-based company is aiming to raise $500 million at a valuation of $16 billion to $19 billion, making it the third most highly valued tech start-up backed by venture capitalists. The Chinese handset maker Xiaomi is valued at $45 billion, while Uber is estimated to be valued at about $40 billion, according to data from CB Insights. Read MoreVC investment hits $86B thanks to Uber, Xiaomi Snapchat was valued at $10 billion in August, according to a Dow Jones report. Some of its investors from previous rounds include Benchmark, Lightspeed Venture Partners and Kleiner Perkins Caufield",
+        "url": "https://www.csmonitor.com/Business/Latest-News-Wires/2015/0218/Is-Snapchat-really-worth-19-billion",
+        "summary": "Snapchat is aiming to raise $500 million with a valuation of $16 billion to $19 billion, making it the third most highly valued tech start-up backed by venture capitalists. Other highly valued companies include Xiaomi at $45 billion and Uber at about $40 billion. Snapchat was previously valued at $10 billion, and some of its investors include Benchmark, Lightspeed Venture Partners, and Kleiner Perkins Caufield. The article does not discuss whether venture capitalists expect repayment within a certain timeframe.",
+        "extraction": "Venture capitalists invest in startups with the expectation of a big payout down the road, either through an initial public offering or an acquisition. This means that the investors expect the company to eventually become profitable and generate returns on their investment. However, in the case of firms like Snapchat and Uber, they are valued highly because of their potential for future growth and dominance in their respective markets, rather than current profitability. Therefore, venture capitalists may not expect repayment within a specific number of years but instead expect a significant",
+        "answers_found": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "title": "What Are Venture Capital Investments? – DollarsAndSense.my",
+        "text": "Ever wondered how highly valued technology giants like Google and Facebook were able to grow so fast and pay their employees so well in such a short amount of time, or how still growing start-ups like Uber are able to lose 1.2 billion US dollars in just the first half of this year alone and still command a valuation upwards of 50 billion US dollars? The answer lies with a special category of investment activity known as venture capital. Venture capitalists are professional investors who invest in a number of highly scalable high-risk technology ventures hoping to make a multi-fold",
+        "url": "http://dollarsandsense.my/what-are-venture-capital-investments/",
+        "summary": "Venture capitalists invest in highly scalable high-risk technology ventures, such as Snapchat and Uber, hoping to make a multi-fold return on their investment. This explains how firms can be valued highly despite not making a profit.",
+        "extraction": "The reason why firms like Uber can command such high valuations despite not making a profit is due to venture capital investments. Venture capitalists are professional investors who invest in high-risk technology ventures with the hopes of making a multi-fold return on their investment. Therefore, they do expect some form of repayment within a number of years but are willing to take on the risk in exchange for the potential high returns.",
+        "answers_found": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "title": "Opinion | What Dara Khosrowshahi Must Do to Save Uber - The New York Times",
+        "text": "at a discount. These are troubling signs. Every start-up must one day fulfill the market’s demand that it turn a profit, but Uber has never figured out how to do that. While ride sharing in some form will probably survive, it’s more likely that without some drastic changes, Uber won’t be around in three to five years. Mr. Khosrowshahi must avoid the mistakes of his predecessor by accepting that “pivots” (Silicon Valley-speak for the desperate changes troubled companies make to reassure their venture capitalist funders) are not the answer. None of the pivots Mr. Kalanick tried — like on-demand delivery",
+        "url": "https://www.nytimes.com/2017/08/30/opinion/dara-khosrowshahi-uber.html",
+        "summary": "The article discusses Uber's inability to turn a profit and the need for drastic changes to prevent its demise. It mentions the concept of \"pivots\" as a desperate attempt to reassure venture capitalist funders but suggests that such measures are not the answer. However, the article does not directly address the question of how firms like Snapchat and Uber are valued so highly despite not making a profit.",
+        "extraction": "Venture capitalists are willing to invest in firms like Snapchat and Uber even if they are not making a profit because they expect a significant return on their investment once the company goes public or is acquired. However, it is expected that every start-up must one day fulfill the market's demand that it turns a profit, which Uber has not been able to do yet. Therefore, if Uber does not make some drastic changes, it is unlikely to be around in three to five years.",
+        "answers_found": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "title": "Snapchat raising funding round at $19 billion valuation: Report",
+        "text": "Snapchat raising funding round at $19 billion valuation: Report The mobile messaging app Snapchat is said to be seeking funding at a $19 billion valuation, according to a report, citing a person with knowledge of the matter. Bloomberg is reporting that the Los Angeles-based company is aiming to raise $500 million at a valuation of $16 billion to $19 billion, making it the third most highly valued tech start-up backed by venture capitalists. The Chinese handset maker Xiaomi is valued at $45 billion, while Uber is estimated to be valued at about $40 billion, according to data from CB Insights.",
+        "url": "https://www.cnbc.com/2015/02/17/snapchat-raising-funding-round-at-19-billion-valuation-report.html",
+        "summary": "The mobile messaging app, Snapchat, is seeking funding at a valuation of $19 billion. Despite not making a profit, it is the third most highly valued tech start-up backed by venture capitalists, with firms like Xiaomi and Uber being valued even higher.",
+        "extraction": "Venture capitalists invest money in startups with the hope of making a return on their investment when the company goes public or is acquired. They are willing to invest in companies that are not yet profitable because they believe that the company has the potential to grow and become profitable in the future. The high valuations of companies like Snapchat, Uber, and Xiaomi are based on their potential for future growth and profitability. Therefore, venture capitalists do expect repayment within a number of years, but they are betting on the long",
+        "answers_found": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "title": "Unicorns And Wall Street | MoneyTips",
+        "text": "not start showing profits soon. Even Uber, with its massive $62-billion-plus valuation, will test investor's patience if it does not start showing signs of a profit in the next few years. Cracks are starting to show in terms of pre-IPO devaluations. Dropbox and Snapchat have seen a nearly one-quarter drop in their pre-IPO valuations, while Square's pre-IPO value has dropped by approximately one-third. Larger investors and venture capitalists are sending a message to the unicorns: Outline a solid path to profits and start producing them soon, or expect your valuation to be slashed. Diving ahead with an IPO is not",
+        "url": "https://www.moneytips.com/unicorns-and-wall-street",
+        "summary": "Venture capitalists are starting to demand profits from high-valued firms like Uber and Snapchat, or their valuations will be reduced. Pre-IPO valuations of Dropbox, Snapchat and Square have already dropped significantly.",
+        "extraction": "Larger investors and venture capitalists are sending a message to the unicorns: Outline a solid path to profits and start producing them soon, or expect your valuation to be slashed.",
+        "answers_found": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "question": "Why is it bad to eat cookie dough for risk of salmonella but things like Cookie Dough Bites are ok?",
+    "question_ctx": "",
+    "answer": "Any edible \"cookie dough\" products are made without eggs so there is no risk of salmonella since the salmonella bacteria is from the egg.",
+    "claims": [
+      "Cookie Dough Bites are safe to eat since they do not contain eggs.",
+      "Salmonella is a bacteria found in eggs.",
+      "Eating raw cookie dough carries the risk of salmonella infection."
+    ],
+    "docs": [
+      {
+        "title": "It's Probably OK to Eat Raw Cookie Dough — As Long As You're Smart About It - The Crux - Very Top Secret Information",
+        "text": "First, when most people think about health risks and cookie dough, they think about raw egg. Eggs can be contaminated with salmonella bacteria, and food safety recommendations encourage people to cook eggs until the white and yolk are firm in order to kill any bacteria. However, anyone making cookies can do things to reduce this risk by using pasteurized egg products. When my kids and I make cookie dough, we never use regular eggs. Instead, we use shell eggs that have been pasteurized to kill any harmful bacteria without actually cooking the egg itself. (A great public health innovation, if",
+        "url": "https://verytopsecret.info/2018/12/17/0fnslqsvsoy/",
+        "summary": "It is bad to eat raw cookie dough due to the risk of salmonella from raw eggs, but using pasteurized egg products can reduce this risk. It is unclear if Cookie Dough Bites are mentioned in the document.",
+        "extraction": "Regular cookie dough may contain raw eggs that can be contaminated with salmonella bacteria, but products like Cookie Dough Bites are okay because they use pasteurized egg products that kill any harmful bacteria without actually cooking the egg itself.",
+        "answers_found": [
+          0,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "The Beachwood Reporter - Go Ahead, Eat Raw Cookie Dough!",
+        "text": "Go Ahead, Eat Raw Cookie Dough! By Brian Zikmund-Fisher/The Conversation The following three statements are all true: Eating cookie dough can be dangerous, even after we've dealt with any raw eggs. I am a public health faculty member and an expert in health risk communication. My family and I eat raw cookie dough regularly. If it seems implausible that all three of those statements can be simultaneously true, let me explain. To start, when most people think about health risks and cookie dough, they think about raw egg. Eggs can be contaminated with salmonella bacteria, and food safety recommendations encourage",
+        "url": "http://www.beachwoodreporter.com/people_places_things/go_ahead_eat_raw_cookie_dough.php",
+        "summary": "The article argues that eating raw cookie dough can be dangerous due to the risk of salmonella from raw eggs, but the author, who is an expert in health risk communication, and their family eat raw cookie dough regularly. It does not mention Cookie Dough Bites.",
+        "extraction": "Eating raw cookie dough can be dangerous due to the risk of salmonella from raw eggs. However, products like Cookie Dough Bites are safe to eat because they are made without eggs.",
+        "answers_found": [
+          0,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Stop Eating Cookie Dough, Says The FDA (But For Real This Time)",
+        "text": "Stop Eating Cookie Dough, Says The FDA (But For Real This Time) It’s a sad day, folks. The Food and Drug Administration has officially declared that raw cookie dough is not safe to eat. You might be thinking, “No problem! I’ll just cut the eggs and make vegan dough!” But, oh you sweet summer child, that won’t actually solve the problem. It turns out that the safety issue with cookie dough isn’t simply raw eggs — it’s raw flour. I’ll wait while you scream in agony. You’re probably already aware that consuming raw eggs carries the risk of Salmonella exposure,",
+        "url": "https://www.bustle.com/articles/170059-stop-eating-cookie-dough-says-the-fda-but-for-real-this-time",
+        "summary": "The FDA has declared that raw cookie dough is not safe to eat due to the risk of Salmonella exposure from raw flour, not just raw eggs. It is not specified whether or not Cookie Dough Bites are safe to eat.",
+        "extraction": "Raw flour can also carry harmful bacteria such as E. coli, which can cause serious illness. However, commercially made cookie dough products, like Cookie Dough Bites, are made with heat-treated flour and pasteurized eggs, making them safe to eat.",
+        "answers_found": [
+          0,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Is Cookie Dough Bad For You? - Here Is Your Answer.",
+        "text": "help. Regardless of whether a chicken is organic, free range or caged, salmonella still forms in their intestinal tract. This means that salmonella will always be present one way or another. One way to reduce the risk of salmonella in raw eggs is to buy pasteurized eggs, though these have to be handled and treated correctly otherwise there is just as much risk of salmonella developing. The second ingredient that has the potential to make raw cookie dough bad for you is, surprisingly, flour. In June 2016 the U.S Food and Drug Administration (FDA) released a report advising against the",
+        "url": "https://www.isitbadforyou.com/questions/is-cookie-dough-bad-for-you",
+        "answers_found": [
+          0,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Resource | Baptist Health South Florida Roundup: Breast Cancer Risk and Childbirth; Needless Glucose Testing; and Raw Cookie Dough Alert | Resource | Baptist Health South Florida",
+        "text": "and Prevention [5] (CDC). Raw eggs, which are found in many cookie recipes, can carry salmonella, the bacteria that can cause severe stomach issues, the CDC says. Even egg-free dough can contain raw flour, which can carry disease-causing germs such as E. coli., the CDC notes. Products made with cookie dough, such as ice cream, have had the dough heated sufficiently to kill any potential germs. “Do not taste or eat any raw dough or batter, whether for cookies, tortillas, pizza, biscuits, pancakes, or crafts made with raw flour, such as homemade play dough or holiday ornaments,” the CDC states.",
+        "url": "https://baptisthealth.net/baptist-health-news/roundup-breast-cancer-risk-and-childbirth-needless-glucose-testing-and-raw-cookie-dough-alert/print/",
+        "answers_found": [
+          0,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "question": "how does so much of our trash end up in the ocean?",
+    "question_ctx": "I read that something like 80% of plastic ends up in the ocean. How does it all get there? It's not like we are using the ocean as our landfill. ",
+    "answer": "Because water flows downhill and very often ends up in rivers which very often end up in oceans. So when it rains, trash is washed downhill and into streams and rivers and ultimately the ocean.",
+    "claims": [
+      "When it rains, trash is washed downhill and into streams and rivers.",
+      "Water flows downhill and often ends up in rivers.",
+      "Rivers often end up in oceans, which is how much of our trash ends up in the ocean."
+    ],
+    "docs": [
+      {
+        "title": "ENVIRONMENTAL THREATS",
+        "text": "trash end up in our world’s oceans every year. These and other single-use disposable items find their way into the water when they fall out of trash cans or are dropped on the ground by litterbugs. When it rains, these items are washed into local streams that feed into the water. It does not matter where the trash originates, because it all ends up in the ocean. Large plastic items entangle and suffocate animals. In addition, some plastics such as water bottles may be mistaken for prey by some animals, which may end up ingesting them and suffering serious harm.",
+        "url": "https://www.keainc.org/environmental-threats.html",
+        "answers_found": [
+          1,
+          0,
+          1
+        ]
+      },
+      {
+        "title": "CHERYL CONLEY: The plastic plight weighs on all of us - Houston Chronicle",
+        "text": "plastic only. Grocery stores have row after row of products in plastic containers replacing what were once glass. It is estimated that 92,000 tons of plastic end up in our oceans every week. To help you understand how much that is, it’s 184,000,000 pounds! But where does all that trash come from? One would think that it’s coming from ships throwing their trash overboard. That accounts for only 20 percent of the problem. The other 80 percent comes from land-based activities. Ninety percent of all plastic trash that ends up in the oceans gets there by ten rivers that carry",
+        "url": "https://www.chron.com/neighborhood/memorial/events/article/CHERYL-CONLEY-The-plastic-plight-weighs-on-all-14290525.php",
+        "summary": "92,000 tons of plastic end up in our oceans every week, with 80% of the trash coming from land-based activities. 90% of all plastic trash in the ocean comes from ten rivers.",
+        "extraction": "\"92,000 tons of plastic end up in our oceans every week. It comes from land-based activities. Ninety percent of all plastic trash that ends up in the oceans gets there by ten rivers that carry.\"",
+        "answers_found": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Ocean Pollution: An Increasing Problem – The West Wind",
+        "text": "most likely going to end up in streams, rivers or drainage pipes due to winds, and all of these end up in the ocean. We are able to pick trash off the ground, easy, however putting on a diving suit to collect trash from a massive ocean seems a bit challenging. Furthermore, how could you collect trash that is so small, we couldn’t see it with a naked eye? The biggest problem with ocean pollution is the plastics that wonder in ocean for so long that they break down smaller and create microplastics. Microplastics are a huge threat to the",
+        "url": "https://wbhswestwind.net/4917/student-life/columns/ocean-pollution-an-increasing-problem/",
+        "answers_found": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "title": "How to help keep our beaches clean all year round",
+        "text": "San Diego alone, imagine how much trash could be removed from all of our beaches! Thinkbeforeyouflush.org, a website dedicated to raising awareness about the damage caused by the things we flush down the toilet Although it's a great start, eliminating ocean pollution is not as simple as just disposing of our trash correctly and picking up what others have left. All waterways lead to the ocean, so garbage and waste products can make their way into the oceans via garbage disposals and sewage pipes. We must be conscious of how we dispose of our waste at all times, especially of",
+        "url": "https://glampinghub.com/blog/how-to-keep-beaches-clean/",
+        "answers_found": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Tips for Writing Winning Proposals - A CREATIVE AGENCY",
+        "text": "trash in the world's backyard. And while the rivers of the world run into the ocean, it's never full. While trash builds up on the internet and socials, we'll never see most of it, so it doesn't matter. But try this. Record all your posts, blogs, tweets, etc. in one place for a week. Take a look back on them. How much value did you produce? How much waste? That might not be the point for you, right? Hell, it's fun! But at the end of the day, the person whose virtual backyard is taking the trash isn't laughing or",
+        "url": "https://www.qocreate.com/blog/dont-throw-your-trash-in-my-backyard-my-backyards-full-a-muse",
+        "answers_found": [
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  }
+]

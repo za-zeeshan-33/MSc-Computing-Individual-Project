@@ -1,0 +1,119 @@
+[
+  {
+    "query_id": 1,
+    "question": "who sings does he love me with reba",
+    "answers": [
+      "Linda Davis"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "11828866",
+        "title": "Does He Love You",
+        "text": "Does He Love You \"Does He Love You\" is a song written by Sandy Knox and Billy Stritch, and recorded as a duet by American country music artists Reba McEntire and Linda Davis. It was released in August 1993 as the first single from Reba's album \"Greatest Hits Volume Two\". It is one of country music's several songs about a love triangle. \"Does He Love You\" was written in 1982 by Billy Stritch. He recorded it with a trio in which he performed at the time, because he wanted a song that could be sung by the other two members",
+        "score": 1000
+      },
+      {
+        "doc_id": "11828866",
+        "title": "Does He Love You",
+        "text": "Does He Love You \"Does He Love You\" is a song written by Sandy Knox and Billy Stritch, and recorded as a duet by American country music artists Reba McEntire and Linda Davis. It was released in August 1993 as the first single from Reba's album \"Greatest Hits Volume Two\". It is one of country music's several songs about a love triangle. \"Does He Love You\" was written in 1982 by Billy Stritch. He recorded it with a trio in which he performed at the time, because he wanted a song that could be sung by the other two members",
+        "score": 13.394315
+      },
+      {
+        "doc_id": "15632586",
+        "title": "Red Sandy Spika dress of Reba McEntire",
+        "text": "Red Sandy Spika dress of Reba McEntire American recording artist Reba McEntire wore a sheer red dress to the 1993 Country Music Association Awards ceremony on September 29, 1993. The sheer fabric was covered with sequins, and cut with a low neckline. The garment was designed by stylist Sandy Spika, and McEntire wore it during a duet performance of \"Does He Love You\" with Linda Davis. McEntire later said, \"I got more press off that dress than if I'd won entertainer of the year.\" According to McEntire, when her little sister, Susie, saw her on stage she leaned over and",
+        "score": 12.924647
+      },
+      {
+        "doc_id": "8870096",
+        "title": "Greatest Hits Volume Two (Reba McEntire album)",
+        "text": "(then a background singer in McEntire's road band), was the first single and turned out to be a smash. It reached number 1 on the country charts. The song also earned them a Grammy award for Best Country Vocal Collaboration as well as the CMA Award for \"Vocal Event of the Year\". CMT ranked the song at No. 9 on their list of 100 Greatest Duets. \"Does He Love You\" is the first of three duets featuring Reba and Linda Davis. The album's other new track was \"They Asked About You\", which peaked at No. 7 on the country chart.",
+        "score": 11.614756
+      },
+      {
+        "doc_id": "7626265",
+        "title": "Shoot for the Moon (album)",
+        "text": "Shoot for the Moon (album) Shoot for the Moon is the third album by country music artist Linda Davis, It was her first to achieve placement on the Billboard Music Charts. It was the first album released following a win at the 1993 Grammy Awards for Best Country Vocal Collaboration (with country superstar Reba McEntire) for their hit \"Does He Love You.\" The album rose to the number 28 position on the Country Albums chart, and two of its tracks were relatively minor hits on the singles charts: \"Company Time\" at number 43, and \"Love Didn't Do It\" at number",
+        "score": 11.0992
+      }
+    ],
+    "num_relevant_docs": 5,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 2,
+    "question": "where do the great lakes meet the ocean",
+    "answers": [
+      "the Saint Lawrence River"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "151960",
+        "title": "Great Lakes",
+        "text": "Great Lakes The Great Lakes (), also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes located primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River. They consist of Lakes Superior, Michigan, Huron, Erie, and Ontario, although hydrologically, there are four lakes, Superior, Erie, Ontario, and Michigan-Huron. The lakes are interconnected by the Great Lakes Waterway. The Great Lakes are the largest group of freshwater lakes on Earth by total area, and second largest",
+        "score": 1000
+      },
+      {
+        "doc_id": "151960",
+        "title": "Great Lakes",
+        "text": "Great Lakes The Great Lakes (), also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes located primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River. They consist of Lakes Superior, Michigan, Huron, Erie, and Ontario, although hydrologically, there are four lakes, Superior, Erie, Ontario, and Michigan-Huron. The lakes are interconnected by the Great Lakes Waterway. The Great Lakes are the largest group of freshwater lakes on Earth by total area, and second largest",
+        "score": 11.393292
+      },
+      {
+        "doc_id": "152029",
+        "title": "Great Lakes",
+        "text": "its impact on the environment. On December 18, 2006, the Coast Guard announced its decision to withdraw the entire proposal. Officials said they would look into alternative ammunition, modifying the proposed zones and have more public dialogue before proposing a new plan. Dynamically updated data Great Lakes The Great Lakes (), also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes located primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River. They consist of",
+        "score": 10.97442
+      },
+      {
+        "doc_id": "151963",
+        "title": "Great Lakes",
+        "text": "form a single, naturally interconnected body of fresh water, within the Great Lakes Basin. They form a chain connecting the east-central interior of North America to the Atlantic Ocean. From the interior to the outlet at the Saint Lawrence River, water flows from Superior to Huron and Michigan, southward to Erie, and finally northward to Lake Ontario. The lakes drain a large watershed via many rivers, and are studded with approximately 35,000 islands. There are also several thousand smaller lakes, often called \"inland lakes,\" within the basin. The surface area of the five primary lakes combined is roughly equal to",
+        "score": 10.432816
+      },
+      {
+        "doc_id": "239917",
+        "title": "Lake Ontario",
+        "text": "the Niagara River from Lake Erie. The last in the Great Lakes chain, Lake Ontario serves as the outlet to the Atlantic Ocean via the Saint Lawrence River. It is the only Great Lake not to border the state of Michigan. Lake Ontario is the easternmost of the Great Lakes and the smallest in surface area (7,340 sq mi, 18,960 km), although it exceeds Lake Erie in volume (393 cu mi, 1,639 km). It is the 14th largest lake in the world. When its islands are included, the lake's shoreline is long. As the last lake in the Great Lakes'",
+        "score": 10.284986
+      },
+      {
+        "doc_id": "9238055",
+        "title": "New York (state)",
+        "text": "that includes within its borders parts of the Great Lakes and the Atlantic Ocean. The Hudson River begins near Lake Tear of the Clouds and flows south through the eastern part of the state, without draining Lakes George or Champlain. Lake George empties at its north end into Lake Champlain, whose northern end extends into Canada, where it drains into the Richelieu River and then ultimately the Saint Lawrence River. The western section of the state is drained by the Allegheny River and rivers of the Susquehanna and Delaware River systems. Niagara Falls is shared between New York and Ontario",
+        "score": 10.10671
+      }
+    ],
+    "num_relevant_docs": 6,
+    "dataset": "nq_dev_psgs_w100"
+  },
+  {
+    "query_id": 3,
+    "question": "when does the new my hero academia movie come out",
+    "answers": [
+      "July 5 , 2018"
+    ],
+    "relevant_docs": [
+      {
+        "doc_id": "20766125",
+        "title": "My Hero Academia: Two Heroes",
+        "text": "would be joining the cast as Melissa Shield and Katsuhisa Namase would play David Shield, both original characters. On June 11, 2018, \"Weekly Shōnen Jump\" announced that Rikiya Koyama had been cast as the film's villain, Wolfram. Masaki Suda performs the film's theme song , which was written and composed by Hiromu Akita of amazarashi. Funimation and Toho premiered the film at Anime Expo in Los Angeles on July 5, 2018, and it was later released in Japan on August 3 of that year. The first one million audience members to see the movie will receive a special book containing",
+        "score": 1000
+      },
+      {
+        "doc_id": "18433097",
+        "title": "My Hero Academia",
+        "text": "announced in the 44th issue of \"Weekly Shōnen Jump\" magazine of 2018. This was later confirmed with the airing of the final episode to season three on September 29, 2018. On December 19, 2018, the \"My Hero Academia\" website confirmed a release date of October 2019, along with a key visual. An anime film was announced in December 2017 and features an original story set after the manga's \"Final Exam\" arc. Titled , the film had its world premiere at Anime Expo on July 5, 2018, and the Japanese theatrical release began screening on August 3, 2018, with the staff",
+        "score": 12.21437
+      },
+      {
+        "doc_id": "20766125",
+        "title": "My Hero Academia: Two Heroes",
+        "text": "would be joining the cast as Melissa Shield and Katsuhisa Namase would play David Shield, both original characters. On June 11, 2018, \"Weekly Shōnen Jump\" announced that Rikiya Koyama had been cast as the film's villain, Wolfram. Masaki Suda performs the film's theme song , which was written and composed by Hiromu Akita of amazarashi. Funimation and Toho premiered the film at Anime Expo in Los Angeles on July 5, 2018, and it was later released in Japan on August 3 of that year. The first one million audience members to see the movie will receive a special book containing",
+        "score": 11.710763
+      }
+    ],
+    "num_relevant_docs": 3,
+    "dataset": "nq_dev_psgs_w100"
+  }
+]
